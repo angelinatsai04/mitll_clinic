@@ -1,0 +1,40 @@
+Starting TDA-Linguistic Analysis
+Total combinations: 18
+Datasets: 18
+Models: 1
+================================================================================
+
+[1/18] STARTING: GLUE-CoLA - llama-3.1-8b-instruct
+[1/18] SUCCESS: GLUE-CoLA - llama-3.1-8b-instruct
+[2/18] STARTING: GLUE-SST2 - llama-3.1-8b-instruct
+[2/18] SUCCESS: GLUE-SST2 - llama-3.1-8b-instruct
+[3/18] STARTING: GLUE-MRPC - llama-3.1-8b-instruct
+[3/18] SUCCESS: GLUE-MRPC - llama-3.1-8b-instruct
+[4/18] STARTING: GLUE-QQP - llama-3.1-8b-instruct
+[4/18] SUCCESS: GLUE-QQP - llama-3.1-8b-instruct
+[5/18] STARTING: GLUE-MNLI - llama-3.1-8b-instruct
+[5/18] FAILED: GLUE-MNLI - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[6/18] STARTING: GLUE-QNLI - llama-3.1-8b-instruct
+[6/18] FAILED: GLUE-QNLI - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[7/18] STARTING: GLUE-RTE - llama-3.1-8b-instruct
+[7/18] FAILED: GLUE-RTE - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[8/18] STARTING: GLUE-WNLI - llama-3.1-8b-instruct
+[8/18] FAILED: GLUE-WNLI - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[9/18] STARTING: SuperGLUE-BoolQ - llama-3.1-8b-instruct
+[9/18] FAILED: SuperGLUE-BoolQ - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[10/18] STARTING: SuperGLUE-CB - llama-3.1-8b-instruct
+[10/18] FAILED: SuperGLUE-CB - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[11/18] STARTING: SuperGLUE-COPA - llama-3.1-8b-instruct
+[11/18] FAILED: SuperGLUE-COPA - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[12/18] STARTING: SuperGLUE-WiC - llama-3.1-8b-instruct
+[12/18] FAILED: SuperGLUE-WiC - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[13/18] STARTING: SuperGLUE-WSC - llama-3.1-8b-instruct
+[13/18] FAILED: SuperGLUE-WSC - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[14/18] STARTING: SNLI - llama-3.1-8b-instruct
+[14/18] FAILED: SNLI - llama-3.1-8b-instruct - ERROR: BuilderConfig 'default' not found. Available: ['plain_text']
+[15/18] STARTING: MultiNLI - llama-3.1-8b-instruct
+[15/18] FAILED: MultiNLI - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[16/18] SKIPPED: BLiMP-Anaphor - llama-3.1-8b-instruct (no labels)
+[17/18] SKIPPED: BLiMP-Argument - llama-3.1-8b-instruct (no labels)
+[18/18] STARTING: Winogrande-XL - llama-3.1-8b-instruct
+[18/18] FAILED: Winogrande-XL - llama-3.1-8b-instruct - ERROR: CUDA out of memory. Tried to allocate 1002.00 MiB. GPU 0 has a total capacity of 23.53 GiB of which 610.69 MiB is free. Process 2000588 has 22.92 GiB memory in use. Of the allocated memory 22.36 GiB is allocated by PyTorch, and 117.39 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

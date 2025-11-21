@@ -1,0 +1,7 @@
+Starting TDA-Linguistic Analysis
+Total combinations: 144
+Datasets: 18
+Models: 8
+================================================================================
+
+[1/144] STARTING: GLUE-CoLA - llama-3.1-8b-instruct

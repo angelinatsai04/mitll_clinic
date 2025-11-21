@@ -1,0 +1,32 @@
+Starting TDA-Linguistic Analysis
+Total combinations: 14
+Datasets: 14
+Models: 1
+================================================================================
+
+[1/14] STARTING: GLUE-MNLI - llama-3.1-8b-instruct
+[1/14] SUCCESS: GLUE-MNLI - llama-3.1-8b-instruct
+[2/14] STARTING: GLUE-QNLI - llama-3.1-8b-instruct
+[2/14] SUCCESS: GLUE-QNLI - llama-3.1-8b-instruct
+[3/14] STARTING: GLUE-RTE - llama-3.1-8b-instruct
+[3/14] SUCCESS: GLUE-RTE - llama-3.1-8b-instruct
+[4/14] STARTING: GLUE-WNLI - llama-3.1-8b-instruct
+[4/14] SUCCESS: GLUE-WNLI - llama-3.1-8b-instruct
+[5/14] STARTING: SuperGLUE-BoolQ - llama-3.1-8b-instruct
+[5/14] SUCCESS: SuperGLUE-BoolQ - llama-3.1-8b-instruct
+[6/14] STARTING: SuperGLUE-CB - llama-3.1-8b-instruct
+[6/14] SUCCESS: SuperGLUE-CB - llama-3.1-8b-instruct
+[7/14] STARTING: SuperGLUE-COPA - llama-3.1-8b-instruct
+[7/14] SUCCESS: SuperGLUE-COPA - llama-3.1-8b-instruct
+[8/14] STARTING: SuperGLUE-WiC - llama-3.1-8b-instruct
+[8/14] SUCCESS: SuperGLUE-WiC - llama-3.1-8b-instruct
+[9/14] STARTING: SuperGLUE-WSC - llama-3.1-8b-instruct
+[9/14] SUCCESS: SuperGLUE-WSC - llama-3.1-8b-instruct
+[10/14] STARTING: SNLI - llama-3.1-8b-instruct
+[10/14] FAILED: SNLI - llama-3.1-8b-instruct - ERROR: BuilderConfig 'default' not found. Available: ['plain_text']
+[11/14] STARTING: MultiNLI - llama-3.1-8b-instruct
+[11/14] SUCCESS: MultiNLI - llama-3.1-8b-instruct
+[12/14] SKIPPED: BLiMP-Anaphor - llama-3.1-8b-instruct (no labels)
+[13/14] SKIPPED: BLiMP-Argument - llama-3.1-8b-instruct (no labels)
+[14/14] STARTING: Winogrande-XL - llama-3.1-8b-instruct
+[14/14] SUCCESS: Winogrande-XL - llama-3.1-8b-instruct
