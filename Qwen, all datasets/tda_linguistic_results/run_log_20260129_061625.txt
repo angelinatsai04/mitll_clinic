@@ -1,0 +1,40 @@
+Starting TDA-Linguistic Analysis
+Total combinations: 18
+Datasets: 18
+Models: 1
+================================================================================
+
+[1/18] STARTING: GLUE-CoLA - qwen-2.5-7b-instruct
+[1/18] FAILED: GLUE-CoLA - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[2/18] STARTING: GLUE-SST2 - qwen-2.5-7b-instruct
+[2/18] FAILED: GLUE-SST2 - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[3/18] STARTING: GLUE-MRPC - qwen-2.5-7b-instruct
+[3/18] FAILED: GLUE-MRPC - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[4/18] STARTING: GLUE-QQP - qwen-2.5-7b-instruct
+[4/18] FAILED: GLUE-QQP - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[5/18] STARTING: GLUE-MNLI - qwen-2.5-7b-instruct
+[5/18] FAILED: GLUE-MNLI - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[6/18] STARTING: GLUE-QNLI - qwen-2.5-7b-instruct
+[6/18] FAILED: GLUE-QNLI - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[7/18] STARTING: GLUE-RTE - qwen-2.5-7b-instruct
+[7/18] FAILED: GLUE-RTE - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[8/18] STARTING: GLUE-WNLI - qwen-2.5-7b-instruct
+[8/18] FAILED: GLUE-WNLI - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[9/18] STARTING: SuperGLUE-BoolQ - qwen-2.5-7b-instruct
+[9/18] FAILED: SuperGLUE-BoolQ - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[10/18] STARTING: SuperGLUE-CB - qwen-2.5-7b-instruct
+[10/18] FAILED: SuperGLUE-CB - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[11/18] STARTING: SuperGLUE-COPA - qwen-2.5-7b-instruct
+[11/18] FAILED: SuperGLUE-COPA - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[12/18] STARTING: SuperGLUE-WiC - qwen-2.5-7b-instruct
+[12/18] FAILED: SuperGLUE-WiC - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[13/18] STARTING: SuperGLUE-WSC - qwen-2.5-7b-instruct
+[13/18] FAILED: SuperGLUE-WSC - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[14/18] STARTING: SNLI - qwen-2.5-7b-instruct
+[14/18] FAILED: SNLI - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[15/18] STARTING: MultiNLI - qwen-2.5-7b-instruct
+[15/18] FAILED: MultiNLI - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
+[16/18] SKIPPED: BLiMP-Anaphor - qwen-2.5-7b-instruct (no labels)
+[17/18] SKIPPED: BLiMP-Argument - qwen-2.5-7b-instruct (no labels)
+[18/18] STARTING: Winogrande-XL - qwen-2.5-7b-instruct
+[18/18] FAILED: Winogrande-XL - qwen-2.5-7b-instruct - ERROR: name 'analyze_dataset' is not defined
