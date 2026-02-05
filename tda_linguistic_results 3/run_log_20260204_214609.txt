@@ -1,0 +1,414 @@
+TDA-Linguistic Analysis | Total: 144 | Datasets: 18 | Models: 8
+================================================================================
+
+[1/144] STARTING: GLUE-CoLA - llama-3.1-8b-instruct
+[1/144] SUCCESS: GLUE-CoLA - llama-3.1-8b-instruct
+[2/144] STARTING: GLUE-CoLA - qwen-2.5-7b-instruct
+[2/144] SUCCESS: GLUE-CoLA - qwen-2.5-7b-instruct
+[3/144] STARTING: GLUE-CoLA - gpt2
+[3/144] SUCCESS: GLUE-CoLA - gpt2
+[4/144] STARTING: GLUE-CoLA - distilgpt2
+[4/144] SUCCESS: GLUE-CoLA - distilgpt2
+[5/144] STARTING: GLUE-CoLA - roberta-base
+[5/144] FAILED: GLUE-CoLA - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[6/144] STARTING: GLUE-CoLA - bert-base-uncased
+[6/144] SUCCESS: GLUE-CoLA - bert-base-uncased
+[7/144] STARTING: GLUE-CoLA - distilbert-base-uncased
+[7/144] FAILED: GLUE-CoLA - distilbert-base-uncased - Graph has no nodes or edges
+[8/144] STARTING: GLUE-CoLA - electra-small
+[8/144] FAILED: GLUE-CoLA - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[9/144] STARTING: GLUE-SST2 - llama-3.1-8b-instruct
+[9/144] SUCCESS: GLUE-SST2 - llama-3.1-8b-instruct
+[10/144] STARTING: GLUE-SST2 - qwen-2.5-7b-instruct
+[10/144] SUCCESS: GLUE-SST2 - qwen-2.5-7b-instruct
+[11/144] STARTING: GLUE-SST2 - gpt2
+[11/144] SUCCESS: GLUE-SST2 - gpt2
+[12/144] STARTING: GLUE-SST2 - distilgpt2
+[12/144] SUCCESS: GLUE-SST2 - distilgpt2
+[13/144] STARTING: GLUE-SST2 - roberta-base
+[13/144] FAILED: GLUE-SST2 - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[14/144] STARTING: GLUE-SST2 - bert-base-uncased
+[14/144] SUCCESS: GLUE-SST2 - bert-base-uncased
+[15/144] STARTING: GLUE-SST2 - distilbert-base-uncased
+[15/144] FAILED: GLUE-SST2 - distilbert-base-uncased - Graph has no nodes or edges
+[16/144] STARTING: GLUE-SST2 - electra-small
+[16/144] FAILED: GLUE-SST2 - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[17/144] STARTING: GLUE-MRPC - llama-3.1-8b-instruct
+[17/144] SUCCESS: GLUE-MRPC - llama-3.1-8b-instruct
+[18/144] STARTING: GLUE-MRPC - qwen-2.5-7b-instruct
+[18/144] SUCCESS: GLUE-MRPC - qwen-2.5-7b-instruct
+[19/144] STARTING: GLUE-MRPC - gpt2
+[19/144] SUCCESS: GLUE-MRPC - gpt2
+[20/144] STARTING: GLUE-MRPC - distilgpt2
+[20/144] SUCCESS: GLUE-MRPC - distilgpt2
+[21/144] STARTING: GLUE-MRPC - roberta-base
+[21/144] FAILED: GLUE-MRPC - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[22/144] STARTING: GLUE-MRPC - bert-base-uncased
+[22/144] SUCCESS: GLUE-MRPC - bert-base-uncased
+[23/144] STARTING: GLUE-MRPC - distilbert-base-uncased
+[23/144] FAILED: GLUE-MRPC - distilbert-base-uncased - Graph has no nodes or edges
+[24/144] STARTING: GLUE-MRPC - electra-small
+[24/144] FAILED: GLUE-MRPC - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[25/144] STARTING: GLUE-QQP - llama-3.1-8b-instruct
+[25/144] SUCCESS: GLUE-QQP - llama-3.1-8b-instruct
+[26/144] STARTING: GLUE-QQP - qwen-2.5-7b-instruct
+[26/144] SUCCESS: GLUE-QQP - qwen-2.5-7b-instruct
+[27/144] STARTING: GLUE-QQP - gpt2
+[27/144] SUCCESS: GLUE-QQP - gpt2
+[28/144] STARTING: GLUE-QQP - distilgpt2
+[28/144] SUCCESS: GLUE-QQP - distilgpt2
+[29/144] STARTING: GLUE-QQP - roberta-base
+[29/144] FAILED: GLUE-QQP - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[30/144] STARTING: GLUE-QQP - bert-base-uncased
+[30/144] SUCCESS: GLUE-QQP - bert-base-uncased
+[31/144] STARTING: GLUE-QQP - distilbert-base-uncased
+[31/144] FAILED: GLUE-QQP - distilbert-base-uncased - Graph has no nodes or edges
+[32/144] STARTING: GLUE-QQP - electra-small
+[32/144] FAILED: GLUE-QQP - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[33/144] STARTING: GLUE-MNLI - llama-3.1-8b-instruct
+[33/144] SUCCESS: GLUE-MNLI - llama-3.1-8b-instruct
+[34/144] STARTING: GLUE-MNLI - qwen-2.5-7b-instruct
+[34/144] SUCCESS: GLUE-MNLI - qwen-2.5-7b-instruct
+[35/144] STARTING: GLUE-MNLI - gpt2
+[35/144] SUCCESS: GLUE-MNLI - gpt2
+[36/144] STARTING: GLUE-MNLI - distilgpt2
+[36/144] SUCCESS: GLUE-MNLI - distilgpt2
+[37/144] STARTING: GLUE-MNLI - roberta-base
+[37/144] FAILED: GLUE-MNLI - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[38/144] STARTING: GLUE-MNLI - bert-base-uncased
+[38/144] SUCCESS: GLUE-MNLI - bert-base-uncased
+[39/144] STARTING: GLUE-MNLI - distilbert-base-uncased
+[39/144] FAILED: GLUE-MNLI - distilbert-base-uncased - Graph has no nodes or edges
+[40/144] STARTING: GLUE-MNLI - electra-small
+[40/144] FAILED: GLUE-MNLI - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[41/144] STARTING: GLUE-QNLI - llama-3.1-8b-instruct
+[41/144] SUCCESS: GLUE-QNLI - llama-3.1-8b-instruct
+[42/144] STARTING: GLUE-QNLI - qwen-2.5-7b-instruct
+[42/144] SUCCESS: GLUE-QNLI - qwen-2.5-7b-instruct
+[43/144] STARTING: GLUE-QNLI - gpt2
+[43/144] SUCCESS: GLUE-QNLI - gpt2
+[44/144] STARTING: GLUE-QNLI - distilgpt2
+[44/144] SUCCESS: GLUE-QNLI - distilgpt2
+[45/144] STARTING: GLUE-QNLI - roberta-base
+[45/144] FAILED: GLUE-QNLI - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[46/144] STARTING: GLUE-QNLI - bert-base-uncased
+[46/144] SUCCESS: GLUE-QNLI - bert-base-uncased
+[47/144] STARTING: GLUE-QNLI - distilbert-base-uncased
+[47/144] FAILED: GLUE-QNLI - distilbert-base-uncased - Graph has no nodes or edges
+[48/144] STARTING: GLUE-QNLI - electra-small
+[48/144] FAILED: GLUE-QNLI - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[49/144] STARTING: GLUE-RTE - llama-3.1-8b-instruct
+[49/144] SUCCESS: GLUE-RTE - llama-3.1-8b-instruct
+[50/144] STARTING: GLUE-RTE - qwen-2.5-7b-instruct
+[50/144] SUCCESS: GLUE-RTE - qwen-2.5-7b-instruct
+[51/144] STARTING: GLUE-RTE - gpt2
+[51/144] SUCCESS: GLUE-RTE - gpt2
+[52/144] STARTING: GLUE-RTE - distilgpt2
+[52/144] SUCCESS: GLUE-RTE - distilgpt2
+[53/144] STARTING: GLUE-RTE - roberta-base
+[53/144] FAILED: GLUE-RTE - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[54/144] STARTING: GLUE-RTE - bert-base-uncased
+[54/144] SUCCESS: GLUE-RTE - bert-base-uncased
+[55/144] STARTING: GLUE-RTE - distilbert-base-uncased
+[55/144] FAILED: GLUE-RTE - distilbert-base-uncased - Graph has no nodes or edges
+[56/144] STARTING: GLUE-RTE - electra-small
+[56/144] FAILED: GLUE-RTE - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[57/144] STARTING: GLUE-WNLI - llama-3.1-8b-instruct
+[57/144] SUCCESS: GLUE-WNLI - llama-3.1-8b-instruct
+[58/144] STARTING: GLUE-WNLI - qwen-2.5-7b-instruct
+[58/144] SUCCESS: GLUE-WNLI - qwen-2.5-7b-instruct
+[59/144] STARTING: GLUE-WNLI - gpt2
+[59/144] SUCCESS: GLUE-WNLI - gpt2
+[60/144] STARTING: GLUE-WNLI - distilgpt2
+[60/144] SUCCESS: GLUE-WNLI - distilgpt2
+[61/144] STARTING: GLUE-WNLI - roberta-base
+[61/144] FAILED: GLUE-WNLI - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[62/144] STARTING: GLUE-WNLI - bert-base-uncased
+[62/144] SUCCESS: GLUE-WNLI - bert-base-uncased
+[63/144] STARTING: GLUE-WNLI - distilbert-base-uncased
+[63/144] FAILED: GLUE-WNLI - distilbert-base-uncased - Graph has no nodes or edges
+[64/144] STARTING: GLUE-WNLI - electra-small
+[64/144] FAILED: GLUE-WNLI - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[65/144] STARTING: SuperGLUE-BoolQ - llama-3.1-8b-instruct
+[65/144] SUCCESS: SuperGLUE-BoolQ - llama-3.1-8b-instruct
+[66/144] STARTING: SuperGLUE-BoolQ - qwen-2.5-7b-instruct
+[66/144] SUCCESS: SuperGLUE-BoolQ - qwen-2.5-7b-instruct
+[67/144] STARTING: SuperGLUE-BoolQ - gpt2
+[67/144] SUCCESS: SuperGLUE-BoolQ - gpt2
+[68/144] STARTING: SuperGLUE-BoolQ - distilgpt2
+[68/144] SUCCESS: SuperGLUE-BoolQ - distilgpt2
+[69/144] STARTING: SuperGLUE-BoolQ - roberta-base
+[69/144] FAILED: SuperGLUE-BoolQ - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[70/144] STARTING: SuperGLUE-BoolQ - bert-base-uncased
+[70/144] SUCCESS: SuperGLUE-BoolQ - bert-base-uncased
+[71/144] STARTING: SuperGLUE-BoolQ - distilbert-base-uncased
+[71/144] FAILED: SuperGLUE-BoolQ - distilbert-base-uncased - Graph has no nodes or edges
+[72/144] STARTING: SuperGLUE-BoolQ - electra-small
+[72/144] FAILED: SuperGLUE-BoolQ - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[73/144] STARTING: SuperGLUE-CB - llama-3.1-8b-instruct
+[73/144] SUCCESS: SuperGLUE-CB - llama-3.1-8b-instruct
+[74/144] STARTING: SuperGLUE-CB - qwen-2.5-7b-instruct
+[74/144] SUCCESS: SuperGLUE-CB - qwen-2.5-7b-instruct
+[75/144] STARTING: SuperGLUE-CB - gpt2
+[75/144] SUCCESS: SuperGLUE-CB - gpt2
+[76/144] STARTING: SuperGLUE-CB - distilgpt2
+[76/144] SUCCESS: SuperGLUE-CB - distilgpt2
+[77/144] STARTING: SuperGLUE-CB - roberta-base
+[77/144] FAILED: SuperGLUE-CB - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[78/144] STARTING: SuperGLUE-CB - bert-base-uncased
+[78/144] SUCCESS: SuperGLUE-CB - bert-base-uncased
+[79/144] STARTING: SuperGLUE-CB - distilbert-base-uncased
+[79/144] FAILED: SuperGLUE-CB - distilbert-base-uncased - Graph has no nodes or edges
+[80/144] STARTING: SuperGLUE-CB - electra-small
+[80/144] FAILED: SuperGLUE-CB - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[81/144] STARTING: SuperGLUE-COPA - llama-3.1-8b-instruct
+[81/144] SUCCESS: SuperGLUE-COPA - llama-3.1-8b-instruct
+[82/144] STARTING: SuperGLUE-COPA - qwen-2.5-7b-instruct
+[82/144] SUCCESS: SuperGLUE-COPA - qwen-2.5-7b-instruct
+[83/144] STARTING: SuperGLUE-COPA - gpt2
+[83/144] SUCCESS: SuperGLUE-COPA - gpt2
+[84/144] STARTING: SuperGLUE-COPA - distilgpt2
+[84/144] SUCCESS: SuperGLUE-COPA - distilgpt2
+[85/144] STARTING: SuperGLUE-COPA - roberta-base
+[85/144] FAILED: SuperGLUE-COPA - roberta-base - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[86/144] STARTING: SuperGLUE-COPA - bert-base-uncased
+[86/144] FAILED: SuperGLUE-COPA - bert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[87/144] STARTING: SuperGLUE-COPA - distilbert-base-uncased
+[87/144] FAILED: SuperGLUE-COPA - distilbert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[88/144] STARTING: SuperGLUE-COPA - electra-small
+[88/144] FAILED: SuperGLUE-COPA - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[89/144] STARTING: SuperGLUE-WiC - llama-3.1-8b-instruct
+[89/144] FAILED: SuperGLUE-WiC - llama-3.1-8b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[90/144] STARTING: SuperGLUE-WiC - qwen-2.5-7b-instruct
+[90/144] FAILED: SuperGLUE-WiC - qwen-2.5-7b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[91/144] STARTING: SuperGLUE-WiC - gpt2
+[91/144] FAILED: SuperGLUE-WiC - gpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[92/144] STARTING: SuperGLUE-WiC - distilgpt2
+[92/144] FAILED: SuperGLUE-WiC - distilgpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[93/144] STARTING: SuperGLUE-WiC - roberta-base
+[93/144] FAILED: SuperGLUE-WiC - roberta-base - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[94/144] STARTING: SuperGLUE-WiC - bert-base-uncased
+[94/144] FAILED: SuperGLUE-WiC - bert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[95/144] STARTING: SuperGLUE-WiC - distilbert-base-uncased
+[95/144] FAILED: SuperGLUE-WiC - distilbert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[96/144] STARTING: SuperGLUE-WiC - electra-small
+[96/144] FAILED: SuperGLUE-WiC - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[97/144] STARTING: SuperGLUE-WSC - llama-3.1-8b-instruct
+[97/144] FAILED: SuperGLUE-WSC - llama-3.1-8b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[98/144] STARTING: SuperGLUE-WSC - qwen-2.5-7b-instruct
+[98/144] FAILED: SuperGLUE-WSC - qwen-2.5-7b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[99/144] STARTING: SuperGLUE-WSC - gpt2
+[99/144] FAILED: SuperGLUE-WSC - gpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[100/144] STARTING: SuperGLUE-WSC - distilgpt2
+[100/144] FAILED: SuperGLUE-WSC - distilgpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[101/144] STARTING: SuperGLUE-WSC - roberta-base
+[101/144] FAILED: SuperGLUE-WSC - roberta-base - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[102/144] STARTING: SuperGLUE-WSC - bert-base-uncased
+[102/144] FAILED: SuperGLUE-WSC - bert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[103/144] STARTING: SuperGLUE-WSC - distilbert-base-uncased
+[103/144] FAILED: SuperGLUE-WSC - distilbert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[104/144] STARTING: SuperGLUE-WSC - electra-small
+[104/144] FAILED: SuperGLUE-WSC - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[105/144] STARTING: SNLI - llama-3.1-8b-instruct
+[105/144] FAILED: SNLI - llama-3.1-8b-instruct - BuilderConfig 'default' not found. Available: ['plain_text']
+[106/144] STARTING: SNLI - qwen-2.5-7b-instruct
+[106/144] FAILED: SNLI - qwen-2.5-7b-instruct - BuilderConfig 'default' not found. Available: ['plain_text']
+[107/144] STARTING: SNLI - gpt2
+[107/144] FAILED: SNLI - gpt2 - BuilderConfig 'default' not found. Available: ['plain_text']
+[108/144] STARTING: SNLI - distilgpt2
+[108/144] FAILED: SNLI - distilgpt2 - BuilderConfig 'default' not found. Available: ['plain_text']
+[109/144] STARTING: SNLI - roberta-base
+[109/144] FAILED: SNLI - roberta-base - BuilderConfig 'default' not found. Available: ['plain_text']
+[110/144] STARTING: SNLI - bert-base-uncased
+[110/144] FAILED: SNLI - bert-base-uncased - BuilderConfig 'default' not found. Available: ['plain_text']
+[111/144] STARTING: SNLI - distilbert-base-uncased
+[111/144] FAILED: SNLI - distilbert-base-uncased - BuilderConfig 'default' not found. Available: ['plain_text']
+[112/144] STARTING: SNLI - electra-small
+[112/144] FAILED: SNLI - electra-small - BuilderConfig 'default' not found. Available: ['plain_text']
+[113/144] STARTING: MultiNLI - llama-3.1-8b-instruct
+[113/144] FAILED: MultiNLI - llama-3.1-8b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[114/144] STARTING: MultiNLI - qwen-2.5-7b-instruct
+[114/144] FAILED: MultiNLI - qwen-2.5-7b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[115/144] STARTING: MultiNLI - gpt2
+[115/144] FAILED: MultiNLI - gpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[116/144] STARTING: MultiNLI - distilgpt2
+[116/144] FAILED: MultiNLI - distilgpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[117/144] STARTING: MultiNLI - roberta-base
+[117/144] FAILED: MultiNLI - roberta-base - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[118/144] STARTING: MultiNLI - bert-base-uncased
+[118/144] FAILED: MultiNLI - bert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[119/144] STARTING: MultiNLI - distilbert-base-uncased
+[119/144] FAILED: MultiNLI - distilbert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[120/144] STARTING: MultiNLI - electra-small
+[120/144] FAILED: MultiNLI - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[121/144] SKIPPED: BLiMP-Anaphor - llama-3.1-8b-instruct (no labels)
+[122/144] SKIPPED: BLiMP-Anaphor - qwen-2.5-7b-instruct (no labels)
+[123/144] SKIPPED: BLiMP-Anaphor - gpt2 (no labels)
+[124/144] SKIPPED: BLiMP-Anaphor - distilgpt2 (no labels)
+[125/144] SKIPPED: BLiMP-Anaphor - roberta-base (no labels)
+[126/144] SKIPPED: BLiMP-Anaphor - bert-base-uncased (no labels)
+[127/144] SKIPPED: BLiMP-Anaphor - distilbert-base-uncased (no labels)
+[128/144] SKIPPED: BLiMP-Anaphor - electra-small (no labels)
+[129/144] SKIPPED: BLiMP-Argument - llama-3.1-8b-instruct (no labels)
+[130/144] SKIPPED: BLiMP-Argument - qwen-2.5-7b-instruct (no labels)
+[131/144] SKIPPED: BLiMP-Argument - gpt2 (no labels)
+[132/144] SKIPPED: BLiMP-Argument - distilgpt2 (no labels)
+[133/144] SKIPPED: BLiMP-Argument - roberta-base (no labels)
+[134/144] SKIPPED: BLiMP-Argument - bert-base-uncased (no labels)
+[135/144] SKIPPED: BLiMP-Argument - distilbert-base-uncased (no labels)
+[136/144] SKIPPED: BLiMP-Argument - electra-small (no labels)
+[137/144] STARTING: Winogrande-XL - llama-3.1-8b-instruct
+[137/144] FAILED: Winogrande-XL - llama-3.1-8b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[138/144] STARTING: Winogrande-XL - qwen-2.5-7b-instruct
+[138/144] FAILED: Winogrande-XL - qwen-2.5-7b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[139/144] STARTING: Winogrande-XL - gpt2
+[139/144] FAILED: Winogrande-XL - gpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[140/144] STARTING: Winogrande-XL - distilgpt2
+[140/144] FAILED: Winogrande-XL - distilgpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[141/144] STARTING: Winogrande-XL - roberta-base
+[141/144] FAILED: Winogrande-XL - roberta-base - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[142/144] STARTING: Winogrande-XL - bert-base-uncased
+[142/144] FAILED: Winogrande-XL - bert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[143/144] STARTING: Winogrande-XL - distilbert-base-uncased
+[143/144] FAILED: Winogrande-XL - distilbert-base-uncased - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[144/144] STARTING: Winogrande-XL - electra-small
+[144/144] FAILED: Winogrande-XL - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434

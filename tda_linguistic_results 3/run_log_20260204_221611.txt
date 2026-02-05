@@ -1,0 +1,44 @@
+TDA-Linguistic Analysis | Total: 40 | Datasets: 5 | Models: 8
+================================================================================
+
+[1/40] STARTING: SNLI - llama-3.1-8b-instruct
+[1/40] FAILED: SNLI - llama-3.1-8b-instruct - BuilderConfig 'default' not found. Available: ['plain_text']
+[2/40] STARTING: SNLI - qwen-2.5-7b-instruct
+[2/40] FAILED: SNLI - qwen-2.5-7b-instruct - BuilderConfig 'default' not found. Available: ['plain_text']
+[3/40] STARTING: SNLI - gpt2
+[3/40] FAILED: SNLI - gpt2 - BuilderConfig 'default' not found. Available: ['plain_text']
+[4/40] STARTING: SNLI - distilgpt2
+[4/40] FAILED: SNLI - distilgpt2 - BuilderConfig 'default' not found. Available: ['plain_text']
+[5/40] STARTING: SNLI - roberta-base
+[5/40] FAILED: SNLI - roberta-base - BuilderConfig 'default' not found. Available: ['plain_text']
+[6/40] STARTING: SNLI - bert-base-uncased
+[6/40] FAILED: SNLI - bert-base-uncased - BuilderConfig 'default' not found. Available: ['plain_text']
+[7/40] STARTING: SNLI - distilbert-base-uncased
+[7/40] FAILED: SNLI - distilbert-base-uncased - BuilderConfig 'default' not found. Available: ['plain_text']
+[8/40] STARTING: SNLI - electra-small
+[8/40] FAILED: SNLI - electra-small - BuilderConfig 'default' not found. Available: ['plain_text']
+[9/40] STARTING: MultiNLI - llama-3.1-8b-instruct
+[9/40] FAILED: MultiNLI - llama-3.1-8b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[10/40] STARTING: MultiNLI - qwen-2.5-7b-instruct
+[10/40] FAILED: MultiNLI - qwen-2.5-7b-instruct - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[11/40] STARTING: MultiNLI - gpt2
+[11/40] FAILED: MultiNLI - gpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[12/40] STARTING: MultiNLI - distilgpt2
+[12/40] FAILED: MultiNLI - distilgpt2 - CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+[13/40] STARTING: MultiNLI - roberta-base
