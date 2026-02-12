@@ -1,0 +1,53 @@
+TDA-Linguistic Analysis | Total: 40 | Datasets: 5 | Models: 8
+================================================================================
+
+[1/40] STARTING: SNLI - llama-3.1-8b-instruct
+[1/40] SUCCESS: SNLI - llama-3.1-8b-instruct
+[2/40] STARTING: SNLI - qwen-2.5-7b-instruct
+[2/40] SUCCESS: SNLI - qwen-2.5-7b-instruct
+[3/40] STARTING: SNLI - gpt2
+[3/40] SUCCESS: SNLI - gpt2
+[4/40] STARTING: SNLI - distilgpt2
+[4/40] SUCCESS: SNLI - distilgpt2
+[5/40] STARTING: SNLI - roberta-base
+[5/40] FAILED: SNLI - roberta-base - WordPiece error: Missing [UNK] token from the vocabulary
+[6/40] STARTING: SNLI - bert-base-uncased
+[6/40] SUCCESS: SNLI - bert-base-uncased
+[7/40] STARTING: SNLI - distilbert-base-uncased
+[7/40] FAILED: SNLI - distilbert-base-uncased - Graph has no nodes or edges
+[8/40] STARTING: SNLI - electra-small
+[8/40] FAILED: SNLI - electra-small - Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[9/40] STARTING: MultiNLI - llama-3.1-8b-instruct
+[9/40] FAILED: MultiNLI - llama-3.1-8b-instruct - BuilderConfig 'plain_text' not found. Available: ['default']
+[10/40] STARTING: MultiNLI - qwen-2.5-7b-instruct
+[10/40] FAILED: MultiNLI - qwen-2.5-7b-instruct - BuilderConfig 'plain_text' not found. Available: ['default']
+[11/40] STARTING: MultiNLI - gpt2
+[11/40] FAILED: MultiNLI - gpt2 - BuilderConfig 'plain_text' not found. Available: ['default']
+[12/40] STARTING: MultiNLI - distilgpt2
+[12/40] FAILED: MultiNLI - distilgpt2 - BuilderConfig 'plain_text' not found. Available: ['default']
+[13/40] STARTING: MultiNLI - roberta-base
+[13/40] FAILED: MultiNLI - roberta-base - BuilderConfig 'plain_text' not found. Available: ['default']
+[14/40] STARTING: MultiNLI - bert-base-uncased
+[14/40] FAILED: MultiNLI - bert-base-uncased - BuilderConfig 'plain_text' not found. Available: ['default']
+[15/40] STARTING: MultiNLI - distilbert-base-uncased
+[15/40] FAILED: MultiNLI - distilbert-base-uncased - BuilderConfig 'plain_text' not found. Available: ['default']
+[16/40] STARTING: MultiNLI - electra-small
+[16/40] FAILED: MultiNLI - electra-small - BuilderConfig 'plain_text' not found. Available: ['default']
+[17/40] SKIPPED: BLiMP-Anaphor - llama-3.1-8b-instruct (no labels)
+[18/40] SKIPPED: BLiMP-Anaphor - qwen-2.5-7b-instruct (no labels)
+[19/40] SKIPPED: BLiMP-Anaphor - gpt2 (no labels)
+[20/40] SKIPPED: BLiMP-Anaphor - distilgpt2 (no labels)
+[21/40] SKIPPED: BLiMP-Anaphor - roberta-base (no labels)
+[22/40] SKIPPED: BLiMP-Anaphor - bert-base-uncased (no labels)
+[23/40] SKIPPED: BLiMP-Anaphor - distilbert-base-uncased (no labels)
+[24/40] SKIPPED: BLiMP-Anaphor - electra-small (no labels)
+[25/40] SKIPPED: BLiMP-Argument - llama-3.1-8b-instruct (no labels)
+[26/40] SKIPPED: BLiMP-Argument - qwen-2.5-7b-instruct (no labels)
+[27/40] SKIPPED: BLiMP-Argument - gpt2 (no labels)
+[28/40] SKIPPED: BLiMP-Argument - distilgpt2 (no labels)
+[29/40] SKIPPED: BLiMP-Argument - roberta-base (no labels)
+[30/40] SKIPPED: BLiMP-Argument - bert-base-uncased (no labels)
+[31/40] SKIPPED: BLiMP-Argument - distilbert-base-uncased (no labels)
+[32/40] SKIPPED: BLiMP-Argument - electra-small (no labels)
+[33/40] STARTING: Winogrande-XL - llama-3.1-8b-instruct

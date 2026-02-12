@@ -1,0 +1,8 @@
+TDA-Linguistic Analysis | Total: 40 | Datasets: 5 | Models: 8
+================================================================================
+
+[1/40] STARTING: SNLI - llama-3.1-8b-instruct
+[1/40] SUCCESS: SNLI - llama-3.1-8b-instruct
+[2/40] STARTING: SNLI - qwen-2.5-7b-instruct
+[2/40] SUCCESS: SNLI - qwen-2.5-7b-instruct
+[3/40] STARTING: SNLI - gpt2
