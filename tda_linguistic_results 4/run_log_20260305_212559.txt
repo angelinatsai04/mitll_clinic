@@ -1,0 +1,26 @@
+TDA-Linguistic Analysis
+BLiMP configs: 10 | NLI datasets: 2 | Models: 8 | Total runs: 96
+================================================================================
+
+
+--- ANALYSIS 1: BLiMP ---
+
+LOAD FAILED: bert-base-uncased — name 'load_model' is not defined
+LOAD FAILED: roberta-base — name 'load_model' is not defined
+LOAD FAILED: distilbert-base-uncased — name 'load_model' is not defined
+LOAD FAILED: electra-small — name 'load_model' is not defined
+LOAD FAILED: gpt2 — name 'load_model' is not defined
+LOAD FAILED: distilgpt2 — name 'load_model' is not defined
+LOAD FAILED: llama-3.1-8b-instruct — name 'load_model' is not defined
+LOAD FAILED: qwen-2.5-7b-instruct — name 'load_model' is not defined
+
+--- ANALYSIS 2: NLI ---
+
+LOAD FAILED: bert-base-uncased — name 'load_model' is not defined
+LOAD FAILED: roberta-base — name 'load_model' is not defined
+LOAD FAILED: distilbert-base-uncased — name 'load_model' is not defined
+LOAD FAILED: electra-small — name 'load_model' is not defined
+LOAD FAILED: gpt2 — name 'load_model' is not defined
+LOAD FAILED: distilgpt2 — name 'load_model' is not defined
+LOAD FAILED: llama-3.1-8b-instruct — name 'load_model' is not defined
+LOAD FAILED: qwen-2.5-7b-instruct — name 'load_model' is not defined

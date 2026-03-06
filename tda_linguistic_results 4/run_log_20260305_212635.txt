@@ -1,0 +1,167 @@
+TDA-Linguistic Analysis
+BLiMP configs: 10 | NLI datasets: 2 | Models: 8 | Total runs: 96
+================================================================================
+
+
+--- ANALYSIS 1: BLiMP ---
+
+[1/96] STARTING: BLiMP-anaphor_gender_agreement | bert-base-uncased
+[1/96] SUCCESS: BLiMP-anaphor_gender_agreement | bert-base-uncased
+[2/96] STARTING: BLiMP-anaphor_number_agreement | bert-base-uncased
+[2/96] SUCCESS: BLiMP-anaphor_number_agreement | bert-base-uncased
+[3/96] STARTING: BLiMP-distractor_agreement_relative_clause | bert-base-uncased
+[3/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | bert-base-uncased
+[4/96] STARTING: BLiMP-distractor_agreement_relational_noun | bert-base-uncased
+[4/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | bert-base-uncased
+[5/96] STARTING: BLiMP-irregular_past_participle_verbs | bert-base-uncased
+[5/96] SUCCESS: BLiMP-irregular_past_participle_verbs | bert-base-uncased
+[6/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | bert-base-uncased
+[6/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | bert-base-uncased
+[7/96] STARTING: BLiMP-wh_questions_subject_gap | bert-base-uncased
+[7/96] SUCCESS: BLiMP-wh_questions_subject_gap | bert-base-uncased
+[8/96] STARTING: BLiMP-wh_questions_object_gap | bert-base-uncased
+[8/96] SUCCESS: BLiMP-wh_questions_object_gap | bert-base-uncased
+[9/96] STARTING: BLiMP-wh_island | bert-base-uncased
+[9/96] SUCCESS: BLiMP-wh_island | bert-base-uncased
+[10/96] STARTING: BLiMP-complex_NP_island | bert-base-uncased
+[10/96] SUCCESS: BLiMP-complex_NP_island | bert-base-uncased
+[11/96] STARTING: BLiMP-anaphor_gender_agreement | roberta-base
+[11/96] SUCCESS: BLiMP-anaphor_gender_agreement | roberta-base
+[12/96] STARTING: BLiMP-anaphor_number_agreement | roberta-base
+[12/96] SUCCESS: BLiMP-anaphor_number_agreement | roberta-base
+[13/96] STARTING: BLiMP-distractor_agreement_relative_clause | roberta-base
+[13/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | roberta-base
+[14/96] STARTING: BLiMP-distractor_agreement_relational_noun | roberta-base
+[14/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | roberta-base
+[15/96] STARTING: BLiMP-irregular_past_participle_verbs | roberta-base
+[15/96] SUCCESS: BLiMP-irregular_past_participle_verbs | roberta-base
+[16/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | roberta-base
+[16/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | roberta-base
+[17/96] STARTING: BLiMP-wh_questions_subject_gap | roberta-base
+[17/96] SUCCESS: BLiMP-wh_questions_subject_gap | roberta-base
+[18/96] STARTING: BLiMP-wh_questions_object_gap | roberta-base
+[18/96] SUCCESS: BLiMP-wh_questions_object_gap | roberta-base
+[19/96] STARTING: BLiMP-wh_island | roberta-base
+[19/96] SUCCESS: BLiMP-wh_island | roberta-base
+[20/96] STARTING: BLiMP-complex_NP_island | roberta-base
+[20/96] SUCCESS: BLiMP-complex_NP_island | roberta-base
+[21/96] STARTING: BLiMP-anaphor_gender_agreement | distilbert-base-uncased
+[21/96] SUCCESS: BLiMP-anaphor_gender_agreement | distilbert-base-uncased
+[22/96] STARTING: BLiMP-anaphor_number_agreement | distilbert-base-uncased
+[22/96] SUCCESS: BLiMP-anaphor_number_agreement | distilbert-base-uncased
+[23/96] STARTING: BLiMP-distractor_agreement_relative_clause | distilbert-base-uncased
+[23/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | distilbert-base-uncased
+[24/96] STARTING: BLiMP-distractor_agreement_relational_noun | distilbert-base-uncased
+[24/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | distilbert-base-uncased
+[25/96] STARTING: BLiMP-irregular_past_participle_verbs | distilbert-base-uncased
+[25/96] SUCCESS: BLiMP-irregular_past_participle_verbs | distilbert-base-uncased
+[26/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | distilbert-base-uncased
+[26/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | distilbert-base-uncased
+[27/96] STARTING: BLiMP-wh_questions_subject_gap | distilbert-base-uncased
+[27/96] SUCCESS: BLiMP-wh_questions_subject_gap | distilbert-base-uncased
+[28/96] STARTING: BLiMP-wh_questions_object_gap | distilbert-base-uncased
+[28/96] SUCCESS: BLiMP-wh_questions_object_gap | distilbert-base-uncased
+[29/96] STARTING: BLiMP-wh_island | distilbert-base-uncased
+[29/96] SUCCESS: BLiMP-wh_island | distilbert-base-uncased
+[30/96] STARTING: BLiMP-complex_NP_island | distilbert-base-uncased
+[30/96] SUCCESS: BLiMP-complex_NP_island | distilbert-base-uncased
+LOAD FAILED: electra-small — Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[31/96] STARTING: BLiMP-anaphor_gender_agreement | gpt2
+[31/96] SUCCESS: BLiMP-anaphor_gender_agreement | gpt2
+[32/96] STARTING: BLiMP-anaphor_number_agreement | gpt2
+[32/96] SUCCESS: BLiMP-anaphor_number_agreement | gpt2
+[33/96] STARTING: BLiMP-distractor_agreement_relative_clause | gpt2
+[33/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | gpt2
+[34/96] STARTING: BLiMP-distractor_agreement_relational_noun | gpt2
+[34/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | gpt2
+[35/96] STARTING: BLiMP-irregular_past_participle_verbs | gpt2
+[35/96] SUCCESS: BLiMP-irregular_past_participle_verbs | gpt2
+[36/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | gpt2
+[36/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | gpt2
+[37/96] STARTING: BLiMP-wh_questions_subject_gap | gpt2
+[37/96] SUCCESS: BLiMP-wh_questions_subject_gap | gpt2
+[38/96] STARTING: BLiMP-wh_questions_object_gap | gpt2
+[38/96] SUCCESS: BLiMP-wh_questions_object_gap | gpt2
+[39/96] STARTING: BLiMP-wh_island | gpt2
+[39/96] SUCCESS: BLiMP-wh_island | gpt2
+[40/96] STARTING: BLiMP-complex_NP_island | gpt2
+[40/96] SUCCESS: BLiMP-complex_NP_island | gpt2
+[41/96] STARTING: BLiMP-anaphor_gender_agreement | distilgpt2
+[41/96] SUCCESS: BLiMP-anaphor_gender_agreement | distilgpt2
+[42/96] STARTING: BLiMP-anaphor_number_agreement | distilgpt2
+[42/96] SUCCESS: BLiMP-anaphor_number_agreement | distilgpt2
+[43/96] STARTING: BLiMP-distractor_agreement_relative_clause | distilgpt2
+[43/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | distilgpt2
+[44/96] STARTING: BLiMP-distractor_agreement_relational_noun | distilgpt2
+[44/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | distilgpt2
+[45/96] STARTING: BLiMP-irregular_past_participle_verbs | distilgpt2
+[45/96] SUCCESS: BLiMP-irregular_past_participle_verbs | distilgpt2
+[46/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | distilgpt2
+[46/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | distilgpt2
+[47/96] STARTING: BLiMP-wh_questions_subject_gap | distilgpt2
+[47/96] SUCCESS: BLiMP-wh_questions_subject_gap | distilgpt2
+[48/96] STARTING: BLiMP-wh_questions_object_gap | distilgpt2
+[48/96] SUCCESS: BLiMP-wh_questions_object_gap | distilgpt2
+[49/96] STARTING: BLiMP-wh_island | distilgpt2
+[49/96] SUCCESS: BLiMP-wh_island | distilgpt2
+[50/96] STARTING: BLiMP-complex_NP_island | distilgpt2
+[50/96] SUCCESS: BLiMP-complex_NP_island | distilgpt2
+[51/96] STARTING: BLiMP-anaphor_gender_agreement | llama-3.1-8b-instruct
+[51/96] SUCCESS: BLiMP-anaphor_gender_agreement | llama-3.1-8b-instruct
+[52/96] STARTING: BLiMP-anaphor_number_agreement | llama-3.1-8b-instruct
+[52/96] SUCCESS: BLiMP-anaphor_number_agreement | llama-3.1-8b-instruct
+[53/96] STARTING: BLiMP-distractor_agreement_relative_clause | llama-3.1-8b-instruct
+[53/96] SUCCESS: BLiMP-distractor_agreement_relative_clause | llama-3.1-8b-instruct
+[54/96] STARTING: BLiMP-distractor_agreement_relational_noun | llama-3.1-8b-instruct
+[54/96] SUCCESS: BLiMP-distractor_agreement_relational_noun | llama-3.1-8b-instruct
+[55/96] STARTING: BLiMP-irregular_past_participle_verbs | llama-3.1-8b-instruct
+[55/96] SUCCESS: BLiMP-irregular_past_participle_verbs | llama-3.1-8b-instruct
+[56/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | llama-3.1-8b-instruct
+[56/96] SUCCESS: BLiMP-irregular_plural_subject_verb_agreement_1 | llama-3.1-8b-instruct
+[57/96] STARTING: BLiMP-wh_questions_subject_gap | llama-3.1-8b-instruct
+[57/96] SUCCESS: BLiMP-wh_questions_subject_gap | llama-3.1-8b-instruct
+[58/96] STARTING: BLiMP-wh_questions_object_gap | llama-3.1-8b-instruct
+[58/96] SUCCESS: BLiMP-wh_questions_object_gap | llama-3.1-8b-instruct
+[59/96] STARTING: BLiMP-wh_island | llama-3.1-8b-instruct
+[59/96] SUCCESS: BLiMP-wh_island | llama-3.1-8b-instruct
+[60/96] STARTING: BLiMP-complex_NP_island | llama-3.1-8b-instruct
+[60/96] SUCCESS: BLiMP-complex_NP_island | llama-3.1-8b-instruct
+[61/96] STARTING: BLiMP-anaphor_gender_agreement | qwen-2.5-7b-instruct
+[61/96] FAILED: BLiMP-anaphor_gender_agreement | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[62/96] STARTING: BLiMP-anaphor_number_agreement | qwen-2.5-7b-instruct
+[62/96] FAILED: BLiMP-anaphor_number_agreement | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[63/96] STARTING: BLiMP-distractor_agreement_relative_clause | qwen-2.5-7b-instruct
+[63/96] FAILED: BLiMP-distractor_agreement_relative_clause | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[64/96] STARTING: BLiMP-distractor_agreement_relational_noun | qwen-2.5-7b-instruct
+[64/96] FAILED: BLiMP-distractor_agreement_relational_noun | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[65/96] STARTING: BLiMP-irregular_past_participle_verbs | qwen-2.5-7b-instruct
+[65/96] FAILED: BLiMP-irregular_past_participle_verbs | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[66/96] STARTING: BLiMP-irregular_plural_subject_verb_agreement_1 | qwen-2.5-7b-instruct
+[66/96] FAILED: BLiMP-irregular_plural_subject_verb_agreement_1 | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[67/96] STARTING: BLiMP-wh_questions_subject_gap | qwen-2.5-7b-instruct
+[67/96] FAILED: BLiMP-wh_questions_subject_gap | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[68/96] STARTING: BLiMP-wh_questions_object_gap | qwen-2.5-7b-instruct
+[68/96] FAILED: BLiMP-wh_questions_object_gap | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[69/96] STARTING: BLiMP-wh_island | qwen-2.5-7b-instruct
+[69/96] FAILED: BLiMP-wh_island | qwen-2.5-7b-instruct — Graph has no nodes or edges
+[70/96] STARTING: BLiMP-complex_NP_island | qwen-2.5-7b-instruct
+[70/96] FAILED: BLiMP-complex_NP_island | qwen-2.5-7b-instruct — Graph has no nodes or edges
+
+--- ANALYSIS 2: NLI ---
+
+[71/96] STARTING: SNLI | bert-base-uncased
+[71/96] SUCCESS: SNLI | bert-base-uncased
+[72/96] STARTING: MultiNLI | bert-base-uncased
+[72/96] FAILED: MultiNLI | bert-base-uncased — BuilderConfig 'plain_text' not found. Available: ['default']
+[73/96] STARTING: SNLI | roberta-base
+[73/96] SUCCESS: SNLI | roberta-base
+[74/96] STARTING: MultiNLI | roberta-base
+[74/96] FAILED: MultiNLI | roberta-base — BuilderConfig 'plain_text' not found. Available: ['default']
+[75/96] STARTING: SNLI | distilbert-base-uncased
+[75/96] SUCCESS: SNLI | distilbert-base-uncased
+[76/96] STARTING: MultiNLI | distilbert-base-uncased
+[76/96] FAILED: MultiNLI | distilbert-base-uncased — BuilderConfig 'plain_text' not found. Available: ['default']
+LOAD FAILED: electra-small — Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+[77/96] STARTING: SNLI | gpt2
