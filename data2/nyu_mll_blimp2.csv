@@ -1,0 +1,501 @@
+sentence_good,sentence_bad,field,linguistics_term,UID,simple_LM_method,one_prefix_method,two_prefix_method,lexically_identical,pair_id
+Who should Derek hug after shocking Richard?,Who should Derek hug Richard after shocking?,syntax,island_effects,adjunct_island,True,False,False,True,0
+What had Theresa walked through while talking about that high school?,What had Theresa walked through that high school while talking about?,syntax,island_effects,adjunct_island,True,False,False,True,1
+Who will Katherine discover without hiring Erin?,Who will Katherine discover Erin without hiring?,syntax,island_effects,adjunct_island,True,False,False,True,2
+Who has Colleen aggravated before kissing Judy?,Who has Colleen aggravated Judy before kissing?,syntax,island_effects,adjunct_island,True,False,False,True,3
+What could a lot of cats break while finding all convertibles?,What could a lot of cats break all convertibles while finding?,syntax,island_effects,adjunct_island,True,False,False,True,4
+Who have most people discovered while embarrassing Erin?,Who have most people discovered Erin while embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,5
+Who was William firing before talking about Maria?,Who was William firing Maria before talking about?,syntax,island_effects,adjunct_island,True,False,False,True,6
+What is Denise descending while hiding a lot of hills?,What is Denise descending a lot of hills while hiding?,syntax,island_effects,adjunct_island,True,False,False,True,7
+Who does John leave while alarming Beverly?,Who does John leave Beverly while alarming?,syntax,island_effects,adjunct_island,True,False,False,True,8
+What was Melanie going to after taking those rivers?,What was Melanie going to those rivers after taking?,syntax,island_effects,adjunct_island,True,False,False,True,9
+Who could Bethany research before discussing Winston Churchill?,Who could Bethany research Winston Churchill before discussing?,syntax,island_effects,adjunct_island,True,False,False,True,10
+What could Jessica sell before noticing these spotlights?,What could Jessica sell these spotlights before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,11
+What had Helen biked to without bothering Spain?,What had Helen biked to Spain without bothering?,syntax,island_effects,adjunct_island,True,False,False,True,12
+Who is Mary irritating after approaching Kenneth?,Who is Mary irritating Kenneth after approaching?,syntax,island_effects,adjunct_island,True,False,False,True,13
+Who might Rose flee from before returning to this customer?,Who might Rose flee from this customer before returning to?,syntax,island_effects,adjunct_island,True,False,False,True,14
+What will Janice research after boasting about politics?,What will Janice research politics after boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,15
+Who had Karla aggravated without finding Donald?,Who had Karla aggravated Donald without finding?,syntax,island_effects,adjunct_island,True,False,False,True,16
+Who should a government reference before shocking Jesus?,Who should a government reference Jesus before shocking?,syntax,island_effects,adjunct_island,True,False,False,True,17
+What had Aaron sounded like while cleaning the museum?,What had Aaron sounded like the museum while cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,18
+What is Brenda arriving at while exiting many schools?,What is Brenda arriving at many schools while exiting?,syntax,island_effects,adjunct_island,True,False,False,True,19
+Who is a window hurting without disturbing Sabrina?,Who is a window hurting Sabrina without disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,20
+Who had Jesus bothered after leaving Lori?,Who had Jesus bothered Lori after leaving?,syntax,island_effects,adjunct_island,True,False,False,True,21
+Who are a lot of hamsters disgusting while finding Ronald?,Who are a lot of hamsters disgusting Ronald while finding?,syntax,island_effects,adjunct_island,True,False,False,True,22
+Who could Amelia leave while appreciating Paul?,Who could Amelia leave Paul while appreciating?,syntax,island_effects,adjunct_island,True,False,False,True,23
+What have many ladies dropped by without talking about all malls?,What have many ladies dropped by all malls without talking about?,syntax,island_effects,adjunct_island,True,False,False,True,24
+What is Larry dropping by after lifting a grocery store?,What is Larry dropping by a grocery store after lifting?,syntax,island_effects,adjunct_island,True,False,False,True,25
+Who is that student hugging before stunning Catherine?,Who is that student hugging Catherine before stunning?,syntax,island_effects,adjunct_island,True,False,False,True,26
+Who were those schools appreciating without scaring Alice?,Who were those schools appreciating Alice without scaring?,syntax,island_effects,adjunct_island,True,False,False,True,27
+What did Dan sell after revealing some plane?,What did Dan sell some plane after revealing?,syntax,island_effects,adjunct_island,True,False,False,True,28
+What had Marcus climbed down before buying many mountains?,What had Marcus climbed down many mountains before buying?,syntax,island_effects,adjunct_island,True,False,False,True,29
+What has Jacqueline scanned before revealing that report?,What has Jacqueline scanned that report before revealing?,syntax,island_effects,adjunct_island,True,False,False,True,30
+Who is Tanya returning to while astounding Donald?,Who is Tanya returning to Donald while astounding?,syntax,island_effects,adjunct_island,True,False,False,True,31
+Who had Kirsten referenced without boring Liam?,Who had Kirsten referenced Liam without boring?,syntax,island_effects,adjunct_island,True,False,False,True,32
+What are some drivers touring after going to every hill?,What are some drivers touring every hill after going to?,syntax,island_effects,adjunct_island,True,False,False,True,33
+Who would Mark visit while kissing Marla?,Who would Mark visit Marla while kissing?,syntax,island_effects,adjunct_island,True,False,False,True,34
+What is Scott cleaning after cleaning a pie?,What is Scott cleaning a pie after cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,35
+Who has some doctor listened to after firing that actress?,Who has some doctor listened to that actress after firing?,syntax,island_effects,adjunct_island,True,False,False,True,36
+Who has that lady approached after alarming Ellen?,Who has that lady approached Ellen after alarming?,syntax,island_effects,adjunct_island,True,False,False,True,37
+What can Randolf bike to before discussing the lakes?,What can Randolf bike to the lakes before discussing?,syntax,island_effects,adjunct_island,True,False,False,True,38
+What had some senator toured before hiding those cafes?,What had some senator toured those cafes before hiding?,syntax,island_effects,adjunct_island,True,False,False,True,39
+Who was Eric impressing without admiring Christina?,Who was Eric impressing Christina without admiring?,syntax,island_effects,adjunct_island,True,False,False,True,40
+What do most drivers climb up without noticing most hills?,What do most drivers climb up most hills without noticing?,syntax,island_effects,adjunct_island,True,False,False,True,41
+Who had Gregory worked with while noticing Julie?,Who had Gregory worked with Julie while noticing?,syntax,island_effects,adjunct_island,True,False,False,True,42
+Who was Rose astounding while hiding many waiters?,Who was Rose astounding many waiters while hiding?,syntax,island_effects,adjunct_island,True,False,False,True,43
+What is Karen researching before walking through that mountain?,What is Karen researching that mountain before walking through?,syntax,island_effects,adjunct_island,True,False,False,True,44
+Who could Dana boast about after disturbing Brenda?,Who could Dana boast about Brenda after disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,45
+What was this bird aggravating before annoying every hospital?,What was this bird aggravating every hospital before annoying?,syntax,island_effects,adjunct_island,True,False,False,True,46
+Who had Colleen known after concealing Stephen?,Who had Colleen known Stephen after concealing?,syntax,island_effects,adjunct_island,True,False,False,True,47
+What are these customers arriving at without alarming Spain?,What are these customers arriving at Spain without alarming?,syntax,island_effects,adjunct_island,True,False,False,True,48
+What has Angela admired while cleaning shoes?,What has Angela admired shoes while cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,49
+What is Becky selling before noticing some hospital?,What is Becky selling some hospital before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,50
+Who had many cashiers concealed after investigating Nina?,Who had many cashiers concealed Nina after investigating?,syntax,island_effects,adjunct_island,True,False,False,True,51
+Who had Melanie admired before listening to Chad?,Who had Melanie admired Chad before listening to?,syntax,island_effects,adjunct_island,True,False,False,True,52
+Who does Bethany visit before scaring Amanda?,Who does Bethany visit Amanda before scaring?,syntax,island_effects,adjunct_island,True,False,False,True,53
+What is Tiffany exiting before climbing down the mountain?,What is Tiffany exiting the mountain before climbing down?,syntax,island_effects,adjunct_island,True,False,False,True,54
+Who had Susan insulted without boring Heather?,Who had Susan insulted Heather without boring?,syntax,island_effects,adjunct_island,True,False,False,True,55
+Who has Curtis noticed while investigating Steve?,Who has Curtis noticed Steve while investigating?,syntax,island_effects,adjunct_island,True,False,False,True,56
+Who has Kayla disliked after disgusting Derek?,Who has Kayla disliked Derek after disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,57
+What is Martin skated around without buying these hospitals?,What is Martin skated around these hospitals without buying?,syntax,island_effects,adjunct_island,True,False,False,True,58
+What was Beth dropping by after bringing all glaciers?,What was Beth dropping by all glaciers after bringing?,syntax,island_effects,adjunct_island,True,False,False,True,59
+Who had Rhonda distracted while finding Chad?,Who had Rhonda distracted Chad while finding?,syntax,island_effects,adjunct_island,True,False,False,True,60
+What has Bethany driven to before biking to a lot of hills?,What has Bethany driven to a lot of hills before biking to?,syntax,island_effects,adjunct_island,True,False,False,True,61
+Who have the slopes hurt before disgusting a lot of adults?,Who have the slopes hurt a lot of adults before disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,62
+What will Brad wear before noticing these scarves?,What will Brad wear these scarves before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,63
+What had Steven boycotted before running around the art gallery?,What had Steven boycotted the art gallery before running around?,syntax,island_effects,adjunct_island,True,False,False,True,64
+Who do the Borgias like before aggravating Mark?,Who do the Borgias like Mark before aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,65
+What had the patients resembled without hiding most sketches?,What had the patients resembled most sketches without hiding?,syntax,island_effects,adjunct_island,True,False,False,True,66
+Who would Jesus hug without discovering Bradley?,Who would Jesus hug Bradley without discovering?,syntax,island_effects,adjunct_island,True,False,False,True,67
+Who has Mark sounded like before finding that doctor?,Who has Mark sounded like that doctor before finding?,syntax,island_effects,adjunct_island,True,False,False,True,68
+Who has Rebecca fled from without listening to Kirsten?,Who has Rebecca fled from Kirsten without listening to?,syntax,island_effects,adjunct_island,True,False,False,True,69
+Who was Ellen escaping from before curing Julia?,Who was Ellen escaping from Julia before curing?,syntax,island_effects,adjunct_island,True,False,False,True,70
+What does Travis fix after breaking every carriage?,What does Travis fix every carriage after breaking?,syntax,island_effects,adjunct_island,True,False,False,True,71
+What might Tanya walk through after hiding every cafe?,What might Tanya walk through every cafe after hiding?,syntax,island_effects,adjunct_island,True,False,False,True,72
+What has Ella brought after finding all icicles?,What has Ella brought all icicles after finding?,syntax,island_effects,adjunct_island,True,False,False,True,73
+What was Valerie selling after climbing down some slope?,What was Valerie selling some slope after climbing down?,syntax,island_effects,adjunct_island,True,False,False,True,74
+What could Douglas bike to without admiring every mountain?,What could Douglas bike to every mountain without admiring?,syntax,island_effects,adjunct_island,True,False,False,True,75
+What would those teenagers research before boycotting some malls?,What would those teenagers research some malls before boycotting?,syntax,island_effects,adjunct_island,True,False,False,True,76
+What can Dan clean before cleaning every screen?,What can Dan clean every screen before cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,77
+Who would Deborah see while hugging Christina?,Who would Deborah see Christina while hugging?,syntax,island_effects,adjunct_island,True,False,False,True,78
+Who can Gregory talk about before hugging Emily?,Who can Gregory talk about Emily before hugging?,syntax,island_effects,adjunct_island,True,False,False,True,79
+What should Elaine argue about before admiring books?,What should Elaine argue about books before admiring?,syntax,island_effects,adjunct_island,True,False,False,True,80
+What had Jason dropped by before selling those schools?,What had Jason dropped by those schools before selling?,syntax,island_effects,adjunct_island,True,False,False,True,81
+What will the guys notice before shocking a lot of museums?,What will the guys notice a lot of museums before shocking?,syntax,island_effects,adjunct_island,True,False,False,True,82
+Who could Monet worry while thinking about Dana?,Who could Monet worry Dana while thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,83
+Who could Thomas observe without distracting Peter?,Who could Thomas observe Peter without distracting?,syntax,island_effects,adjunct_island,True,False,False,True,84
+Who has Suzanne admired after scaring Connie?,Who has Suzanne admired Connie after scaring?,syntax,island_effects,adjunct_island,True,False,False,True,85
+Who can some closets disgust without shocking that dancer?,Who can some closets disgust that dancer without shocking?,syntax,island_effects,adjunct_island,True,False,False,True,86
+Who has Bruce annoyed while investigating Kevin?,Who has Bruce annoyed Kevin while investigating?,syntax,island_effects,adjunct_island,True,False,False,True,87
+What was Bethany lifting without returning to these cafes?,What was Bethany lifting these cafes without returning to?,syntax,island_effects,adjunct_island,True,False,False,True,88
+What should Wendy boycott after questioning every hospital?,What should Wendy boycott every hospital after questioning?,syntax,island_effects,adjunct_island,True,False,False,True,89
+What are these pedestrians selling after finding that bird?,What are these pedestrians selling that bird after finding?,syntax,island_effects,adjunct_island,True,False,False,True,90
+What is Laurie buying before cleaning the car?,What is Laurie buying the car before cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,91
+What does Matt embarrass before bothering every legislature?,What does Matt embarrass every legislature before bothering?,syntax,island_effects,adjunct_island,True,False,False,True,92
+What have some drivers worn without finding a shawl?,What have some drivers worn a shawl without finding?,syntax,island_effects,adjunct_island,True,False,False,True,93
+Who can Kimberley help before healing Martin?,Who can Kimberley help Martin before healing?,syntax,island_effects,adjunct_island,True,False,False,True,94
+Who have most students distracted before impressing Marla?,Who have most students distracted Marla before impressing?,syntax,island_effects,adjunct_island,True,False,False,True,95
+What was Dawn boycotting after describing public parks?,What was Dawn boycotting public parks after describing?,syntax,island_effects,adjunct_island,True,False,False,True,96
+Who was Cynthia observing while thinking about Rose?,Who was Cynthia observing Rose while thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,97
+What do many fish break before breaking the truck?,What do many fish break the truck before breaking?,syntax,island_effects,adjunct_island,True,False,False,True,98
+Who was Ann thinking about without distracting some cashiers?,Who was Ann thinking about some cashiers without distracting?,syntax,island_effects,adjunct_island,True,False,False,True,99
+What does this mall look like while looking like the paintings?,What does this mall look like the paintings while looking like?,syntax,island_effects,adjunct_island,True,False,False,True,100
+Who has Suzanne irritated without alarming Homer?,Who has Suzanne irritated Homer without alarming?,syntax,island_effects,adjunct_island,True,False,False,True,101
+Who could Candice investigate after approaching all senators?,Who could Candice investigate all senators after approaching?,syntax,island_effects,adjunct_island,True,False,False,True,102
+Who might Dennis hire without helping Galileo?,Who might Dennis hire Galileo without helping?,syntax,island_effects,adjunct_island,True,False,False,True,103
+What had Sally remembered without insulting the report?,What had Sally remembered the report without insulting?,syntax,island_effects,adjunct_island,True,False,False,True,104
+What was every senator scanning without taking most newspaper articles?,What was every senator scanning most newspaper articles without taking?,syntax,island_effects,adjunct_island,True,False,False,True,105
+Who is Diana boasting about after kissing Christina?,Who is Diana boasting about Christina after kissing?,syntax,island_effects,adjunct_island,True,False,False,True,106
+What is Stephen worrying after talking about that hospital?,What is Stephen worrying that hospital after talking about?,syntax,island_effects,adjunct_island,True,False,False,True,107
+Who were many blouses confusing before distracting Alexander?,Who were many blouses confusing Alexander before distracting?,syntax,island_effects,adjunct_island,True,False,False,True,108
+Who had Dan discovered before observing Judy?,Who had Dan discovered Judy before observing?,syntax,island_effects,adjunct_island,True,False,False,True,109
+What was Connie climbing up before concealing all ladders?,What was Connie climbing up all ladders before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,110
+Who was this driver firing while disturbing Rachelle?,Who was this driver firing Rachelle while disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,111
+Who has Tina disturbed while arguing about Jill?,Who has Tina disturbed Jill while arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,112
+Who has Rhonda described after describing a girl?,Who has Rhonda described a girl after describing?,syntax,island_effects,adjunct_island,True,False,False,True,113
+Who might Derek criticize without firing drivers?,Who might Derek criticize drivers without firing?,syntax,island_effects,adjunct_island,True,False,False,True,114
+What has Cindy run around after walking through all closets?,What has Cindy run around all closets after walking through?,syntax,island_effects,adjunct_island,True,False,False,True,115
+Who have the cakes annoyed while disturbing Renee?,Who have the cakes annoyed Renee while disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,116
+Who had Kayla kissed after upsetting Aaron?,Who had Kayla kissed Aaron after upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,117
+Who is Rodney concealing after bothering Stephen?,Who is Rodney concealing Stephen after bothering?,syntax,island_effects,adjunct_island,True,False,False,True,118
+What might Anna lift before selling bicycles?,What might Anna lift bicycles before selling?,syntax,island_effects,adjunct_island,True,False,False,True,119
+What was Ronald bringing while bringing a popsicle?,What was Ronald bringing a popsicle while bringing?,syntax,island_effects,adjunct_island,True,False,False,True,120
+What has Judy visited while selling some glacier?,What has Judy visited some glacier while selling?,syntax,island_effects,adjunct_island,True,False,False,True,121
+Who can this cart worry after upsetting waiters?,Who can this cart worry waiters after upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,122
+What had Nicole driven to while selling hills?,What had Nicole driven to hills while selling?,syntax,island_effects,adjunct_island,True,False,False,True,123
+Who had Lisa talked to without complaining about every guest?,Who had Lisa talked to every guest without complaining about?,syntax,island_effects,adjunct_island,True,False,False,True,124
+Who could Jacqueline hire without healing Marcus?,Who could Jacqueline hire Marcus without healing?,syntax,island_effects,adjunct_island,True,False,False,True,125
+Who has Ann alarmed while insulting Omar?,Who has Ann alarmed Omar while insulting?,syntax,island_effects,adjunct_island,True,False,False,True,126
+Who should Amanda distract while appreciating every patient?,Who should Amanda distract every patient while appreciating?,syntax,island_effects,adjunct_island,True,False,False,True,127
+Who had Regina irritated while hiding Deborah?,Who had Regina irritated Deborah while hiding?,syntax,island_effects,adjunct_island,True,False,False,True,128
+Who is the hat hurting while distracting Charles?,Who is the hat hurting Charles while distracting?,syntax,island_effects,adjunct_island,True,False,False,True,129
+Who had Brian discovered after stunning Eric?,Who had Brian discovered Eric after stunning?,syntax,island_effects,adjunct_island,True,False,False,True,130
+What has Kevin broken without breaking every carriage?,What has Kevin broken every carriage without breaking?,syntax,island_effects,adjunct_island,True,False,False,True,131
+What was Connie descending without bringing ladders?,What was Connie descending ladders without bringing?,syntax,island_effects,adjunct_island,True,False,False,True,132
+What does Brad descend without finding some hills?,What does Brad descend some hills without finding?,syntax,island_effects,adjunct_island,True,False,False,True,133
+Who had Rachel concealed without disgusting Mark?,Who had Rachel concealed Mark without disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,134
+What is Jessica driving to after noticing Spain?,What is Jessica driving to Spain after noticing?,syntax,island_effects,adjunct_island,True,False,False,True,135
+Who has Margaret criticized while thinking about Lawrence?,Who has Margaret criticized Lawrence while thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,136
+Who had some face bothered while confusing Sarah?,Who had some face bothered Sarah while confusing?,syntax,island_effects,adjunct_island,True,False,False,True,137
+Who had Regina cured while talking about every dancer?,Who had Regina cured every dancer while talking about?,syntax,island_effects,adjunct_island,True,False,False,True,138
+What could Ellen climb up without climbing down stairs?,What could Ellen climb up stairs without climbing down?,syntax,island_effects,adjunct_island,True,False,False,True,139
+Who had Margaret talked to while insulting Carol?,Who had Margaret talked to Carol while insulting?,syntax,island_effects,adjunct_island,True,False,False,True,140
+What has Kayla looked like while bringing a lot of photographs?,What has Kayla looked like a lot of photographs while bringing?,syntax,island_effects,adjunct_island,True,False,False,True,141
+Who was Kendra scaring after insulting Tammy?,Who was Kendra scaring Tammy after insulting?,syntax,island_effects,adjunct_island,True,False,False,True,142
+Who will Lissa sound like before irritating Sonia?,Who will Lissa sound like Sonia before irritating?,syntax,island_effects,adjunct_island,True,False,False,True,143
+Who had Pamela bored after discovering Homer?,Who had Pamela bored Homer after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,144
+What was Scott dropping by before running around a hill?,What was Scott dropping by a hill before running around?,syntax,island_effects,adjunct_island,True,False,False,True,145
+Who can Becky love before upsetting those adults?,Who can Becky love those adults before upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,146
+What is Sara wearing without buying those blouses?,What is Sara wearing those blouses without buying?,syntax,island_effects,adjunct_island,True,False,False,True,147
+Who will guys describe before scaring Elizabeth?,Who will guys describe Elizabeth before scaring?,syntax,island_effects,adjunct_island,True,False,False,True,148
+Who was Carrie annoying after discovering Florence?,Who was Carrie annoying Florence after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,149
+What will Adam tour without criticizing this college campus?,What will Adam tour this college campus without criticizing?,syntax,island_effects,adjunct_island,True,False,False,True,150
+Who did Steve observe while irritating Ella?,Who did Steve observe Ella while irritating?,syntax,island_effects,adjunct_island,True,False,False,True,151
+What were the Clintons climbing up after noticing most hills?,What were the Clintons climbing up most hills after noticing?,syntax,island_effects,adjunct_island,True,False,False,True,152
+What has James broken before cleaning those couches?,What has James broken those couches before cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,153
+Who can Bradley appreciate after concealing the Clintons?,Who can Bradley appreciate the Clintons after concealing?,syntax,island_effects,adjunct_island,True,False,False,True,154
+Who has the cashier fired without disturbing Bruce?,Who has the cashier fired Bruce without disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,155
+What has Heather skated around after going to that mountain?,What has Heather skated around that mountain after going to?,syntax,island_effects,adjunct_island,True,False,False,True,156
+Who have these turtles astounded without impressing Naomi?,Who have these turtles astounded Naomi without impressing?,syntax,island_effects,adjunct_island,True,False,False,True,157
+Who was Keith working with after arguing about Heather?,Who was Keith working with Heather after arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,158
+What was Gerald breaking after buying these carriages?,What was Gerald breaking these carriages after buying?,syntax,island_effects,adjunct_island,True,False,False,True,159
+What had Jerry worn before selling some hats?,What had Jerry worn some hats before selling?,syntax,island_effects,adjunct_island,True,False,False,True,160
+What will these girls drop by while exploring every grocery store?,What will these girls drop by every grocery store while exploring?,syntax,island_effects,adjunct_island,True,False,False,True,161
+What had Monet skated around while talking about some hill?,What had Monet skated around some hill while talking about?,syntax,island_effects,adjunct_island,True,False,False,True,162
+Who is Jacqueline finding after hugging Meredith?,Who is Jacqueline finding Meredith after hugging?,syntax,island_effects,adjunct_island,True,False,False,True,163
+What should Dan bike to before returning to some closets?,What should Dan bike to some closets before returning to?,syntax,island_effects,adjunct_island,True,False,False,True,164
+What can Pamela go to while biking to many grocery stores?,What can Pamela go to many grocery stores while biking to?,syntax,island_effects,adjunct_island,True,False,False,True,165
+What has this girl sounded like after bringing these lakes?,What has this girl sounded like these lakes after bringing?,syntax,island_effects,adjunct_island,True,False,False,True,166
+What has Carlos broken while revealing most skateboards?,What has Carlos broken most skateboards while revealing?,syntax,island_effects,adjunct_island,True,False,False,True,167
+Who will Barbara bother before discovering Susan?,Who will Barbara bother Susan before discovering?,syntax,island_effects,adjunct_island,True,False,False,True,168
+Who had Monica hugged while helping many waitresses?,Who had Monica hugged many waitresses while helping?,syntax,island_effects,adjunct_island,True,False,False,True,169
+What had Cynthia messed up after taking some couch?,What had Cynthia messed up some couch after taking?,syntax,island_effects,adjunct_island,True,False,False,True,170
+What was Ellen messing up without embarrassing this library?,What was Ellen messing up this library without embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,171
+Who is every painting hurting while embarrassing Marcus?,Who is every painting hurting Marcus while embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,172
+Who is Jesus insulting without concealing Barbara?,Who is Jesus insulting Barbara without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,173
+What does Paul research while touring Harvard University?,What does Paul research Harvard University while touring?,syntax,island_effects,adjunct_island,True,False,False,True,174
+What had many doctors sold before fixing some cups?,What had many doctors sold some cups before fixing?,syntax,island_effects,adjunct_island,True,False,False,True,175
+Who was Theodore scaring while watching Samuel?,Who was Theodore scaring Samuel while watching?,syntax,island_effects,adjunct_island,True,False,False,True,176
+What did Rodney clean without lifting these windows?,What did Rodney clean these windows without lifting?,syntax,island_effects,adjunct_island,True,False,False,True,177
+Who had Amanda fired after investigating Aaron?,Who had Amanda fired Aaron after investigating?,syntax,island_effects,adjunct_island,True,False,False,True,178
+What did Nina climb down before returning to every mountain?,What did Nina climb down every mountain before returning to?,syntax,island_effects,adjunct_island,True,False,False,True,179
+Who had Timothy talked about without concealing these people?,Who had Timothy talked about these people without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,180
+Who is that teacher boasting about while disgusting Teresa?,Who is that teacher boasting about Teresa while disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,181
+Who is Mitchell healing before bothering Judy?,Who is Mitchell healing Judy before bothering?,syntax,island_effects,adjunct_island,True,False,False,True,182
+Who had an association bored after praising a lot of doctors?,Who had an association bored a lot of doctors after praising?,syntax,island_effects,adjunct_island,True,False,False,True,183
+What had Tiffany looked like before concealing those drawings?,What had Tiffany looked like those drawings before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,184
+Who had Andrea appreciated before questioning Tina?,Who had Andrea appreciated Tina before questioning?,syntax,island_effects,adjunct_island,True,False,False,True,185
+Who is the rug worrying while worrying Dawn?,Who is the rug worrying Dawn while worrying?,syntax,island_effects,adjunct_island,True,False,False,True,186
+What has Charles biked to before researching all malls?,What has Charles biked to all malls before researching?,syntax,island_effects,adjunct_island,True,False,False,True,187
+Who has Erin embarrassed without hurting Martha?,Who has Erin embarrassed Martha without hurting?,syntax,island_effects,adjunct_island,True,False,False,True,188
+Who might Judy conceal before confusing Erin?,Who might Judy conceal Erin before confusing?,syntax,island_effects,adjunct_island,True,False,False,True,189
+What has Noah toured after passing every high school?,What has Noah toured every high school after passing?,syntax,island_effects,adjunct_island,True,False,False,True,190
+Who had Laura talked about before hurting Renee?,Who had Laura talked about Renee before hurting?,syntax,island_effects,adjunct_island,True,False,False,True,191
+Who did Brenda discuss without shocking this teenager?,Who did Brenda discuss this teenager without shocking?,syntax,island_effects,adjunct_island,True,False,False,True,192
+What was Bill researching while arguing about stories?,What was Bill researching stories while arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,193
+Who is Karla hugging while concealing Angela?,Who is Karla hugging Angela while concealing?,syntax,island_effects,adjunct_island,True,False,False,True,194
+Who can Jessica respect while hurting Frank?,Who can Jessica respect Frank while hurting?,syntax,island_effects,adjunct_island,True,False,False,True,195
+What should Theresa sell while revealing a lot of cars?,What should Theresa sell a lot of cars while revealing?,syntax,island_effects,adjunct_island,True,False,False,True,196
+What will Stacy fix without fixing the bike?,What will Stacy fix the bike without fixing?,syntax,island_effects,adjunct_island,True,False,False,True,197
+Who were the boys approaching while concealing Curtis?,Who were the boys approaching Curtis while concealing?,syntax,island_effects,adjunct_island,True,False,False,True,198
+What have women lifted before noticing all turtles?,What have women lifted all turtles before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,199
+Who were those eggplants astounding before stunning Linda?,Who were those eggplants astounding Linda before stunning?,syntax,island_effects,adjunct_island,True,False,False,True,200
+Who was this essay disagreeing with without embarrassing Carlos?,Who was this essay disagreeing with Carlos without embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,201
+Who could Danielle find without upsetting Timothy?,Who could Danielle find Timothy without upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,202
+Who could some gloves worry while disturbing John?,Who could some gloves worry John while disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,203
+Who are most teachers approaching before visiting this senator?,Who are most teachers approaching this senator before visiting?,syntax,island_effects,adjunct_island,True,False,False,True,204
+Who would some actor reference while investigating Wayne?,Who would some actor reference Wayne while investigating?,syntax,island_effects,adjunct_island,True,False,False,True,205
+What had Claire climbed up before climbing down these steps?,What had Claire climbed up these steps before climbing down?,syntax,island_effects,adjunct_island,True,False,False,True,206
+What was Candice exiting while boycotting a lot of cafes?,What was Candice exiting a lot of cafes while boycotting?,syntax,island_effects,adjunct_island,True,False,False,True,207
+Who does Benjamin disgust while worrying Diana?,Who does Benjamin disgust Diana while worrying?,syntax,island_effects,adjunct_island,True,False,False,True,208
+What has Diane researched after disgusting those hospitals?,What has Diane researched those hospitals after disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,209
+What have a lot of drivers fixed after discovering most couches?,What have a lot of drivers fixed most couches after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,210
+Who will Kevin like while fleeing from Larry?,Who will Kevin like Larry while fleeing from?,syntax,island_effects,adjunct_island,True,False,False,True,211
+What is Gerald biking to while alarming every hospital?,What is Gerald biking to every hospital while alarming?,syntax,island_effects,adjunct_island,True,False,False,True,212
+Who has the library praised while appreciating Andrew?,Who has the library praised Andrew while appreciating?,syntax,island_effects,adjunct_island,True,False,False,True,213
+What should Stacey reveal while cleaning most boxes?,What should Stacey reveal most boxes while cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,214
+Who could some waiter observe while concealing the Impressionists?,Who could some waiter observe the Impressionists while concealing?,syntax,island_effects,adjunct_island,True,False,False,True,215
+Who would dancers respect after questioning Heidi?,Who would dancers respect Heidi after questioning?,syntax,island_effects,adjunct_island,True,False,False,True,216
+Who can Danielle find without embarrassing Brian?,Who can Danielle find Brian without embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,217
+Who could Colleen return to while distracting Rachel?,Who could Colleen return to Rachel while distracting?,syntax,island_effects,adjunct_island,True,False,False,True,218
+What should many teachers tour before cleaning the river?,What should many teachers tour the river before cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,219
+Who would the Lutherans watch without annoying these actors?,Who would the Lutherans watch these actors without annoying?,syntax,island_effects,adjunct_island,True,False,False,True,220
+Who had Travis found without talking about Ellen?,Who had Travis found Ellen without talking about?,syntax,island_effects,adjunct_island,True,False,False,True,221
+What has Melissa lifted after healing that bird?,What has Melissa lifted that bird after healing?,syntax,island_effects,adjunct_island,True,False,False,True,222
+Who can a cashier insult after watching Rose?,Who can a cashier insult Rose after watching?,syntax,island_effects,adjunct_island,True,False,False,True,223
+What had many people walked through while disturbing all hospitals?,What had many people walked through all hospitals while disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,224
+Who could Erin approach while irritating Renee?,Who could Erin approach Renee while irritating?,syntax,island_effects,adjunct_island,True,False,False,True,225
+Who should current events upset without irritating Cheryl?,Who should current events upset Cheryl without irritating?,syntax,island_effects,adjunct_island,True,False,False,True,226
+Who is Renee observing while finding some driver?,Who is Renee observing some driver while finding?,syntax,island_effects,adjunct_island,True,False,False,True,227
+Who did Emily leave without curing Alan?,Who did Emily leave Alan without curing?,syntax,island_effects,adjunct_island,True,False,False,True,228
+Who is Brenda impressing before kissing this waiter?,Who is Brenda impressing this waiter before kissing?,syntax,island_effects,adjunct_island,True,False,False,True,229
+What had Bethany cleaned while escaping from the art galleries?,What had Bethany cleaned the art galleries while escaping from?,syntax,island_effects,adjunct_island,True,False,False,True,230
+Who had that rice bored before annoying Samuel?,Who had that rice bored Samuel before annoying?,syntax,island_effects,adjunct_island,True,False,False,True,231
+Who is Brian disgusting without admiring the Borgias?,Who is Brian disgusting the Borgias without admiring?,syntax,island_effects,adjunct_island,True,False,False,True,232
+What was Theodore wearing before thinking about all socks?,What was Theodore wearing all socks before thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,233
+What had the senator climbed up after exiting this hill?,What had the senator climbed up this hill after exiting?,syntax,island_effects,adjunct_island,True,False,False,True,234
+Who was Sheila hugging without attacking Heather?,Who was Sheila hugging Heather without attacking?,syntax,island_effects,adjunct_island,True,False,False,True,235
+Who should that sketch confuse before astounding Kendra?,Who should that sketch confuse Kendra before astounding?,syntax,island_effects,adjunct_island,True,False,False,True,236
+Who does Dennis criticize while aggravating Kristin?,Who does Dennis criticize Kristin while aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,237
+Who has Samantha talked to while hurting all girls?,Who has Samantha talked to all girls while hurting?,syntax,island_effects,adjunct_island,True,False,False,True,238
+Who had Dawn observed after hiring the Borgias?,Who had Dawn observed the Borgias after hiring?,syntax,island_effects,adjunct_island,True,False,False,True,239
+Who did Mitchell scare after arguing about Amanda?,Who did Mitchell scare Amanda after arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,240
+Who was this window astounding while scaring Jessica?,Who was this window astounding Jessica while scaring?,syntax,island_effects,adjunct_island,True,False,False,True,241
+What have the waitresses biked to without lifting this hospital?,What have the waitresses biked to this hospital without lifting?,syntax,island_effects,adjunct_island,True,False,False,True,242
+What is Marie breaking while concealing convertibles?,What is Marie breaking convertibles while concealing?,syntax,island_effects,adjunct_island,True,False,False,True,243
+Who had Raymond questioned without boasting about Sara?,Who had Raymond questioned Sara without boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,244
+Who does some lamp confuse before worrying Carlos?,Who does some lamp confuse Carlos before worrying?,syntax,island_effects,adjunct_island,True,False,False,True,245
+Who had Frank aggravated without appreciating Joel?,Who had Frank aggravated Joel without appreciating?,syntax,island_effects,adjunct_island,True,False,False,True,246
+What is Mitchell passing after describing some art galleries?,What is Mitchell passing some art galleries after describing?,syntax,island_effects,adjunct_island,True,False,False,True,247
+What had Derek dropped by without annoying Spain?,What had Derek dropped by Spain without annoying?,syntax,island_effects,adjunct_island,True,False,False,True,248
+Who is Amy criticizing before aggravating George?,Who is Amy criticizing George before aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,249
+Who could Marie think about before referencing James?,Who could Marie think about James before referencing?,syntax,island_effects,adjunct_island,True,False,False,True,250
+Who will Rebecca watch while leaving Wendy?,Who will Rebecca watch Wendy while leaving?,syntax,island_effects,adjunct_island,True,False,False,True,251
+What are these cashiers running around before talking about those grocery stores?,What are these cashiers running around those grocery stores before talking about?,syntax,island_effects,adjunct_island,True,False,False,True,252
+Who does every teenager argue about while scaring Timothy?,Who does every teenager argue about Timothy while scaring?,syntax,island_effects,adjunct_island,True,False,False,True,253
+What had Jerry exited without exiting most libraries?,What had Jerry exited most libraries without exiting?,syntax,island_effects,adjunct_island,True,False,False,True,254
+Who would Brenda respect before alarming Ellen?,Who would Brenda respect Ellen before alarming?,syntax,island_effects,adjunct_island,True,False,False,True,255
+Who would Adam listen to without stunning Patrick?,Who would Adam listen to Patrick without stunning?,syntax,island_effects,adjunct_island,True,False,False,True,256
+Who have some hospitals talked to while distracting Jerry?,Who have some hospitals talked to Jerry while distracting?,syntax,island_effects,adjunct_island,True,False,False,True,257
+Who might the children help after questioning Ronald?,Who might the children help Ronald after questioning?,syntax,island_effects,adjunct_island,True,False,False,True,258
+Who did that cup worry before annoying every doctor?,Who did that cup worry every doctor before annoying?,syntax,island_effects,adjunct_island,True,False,False,True,259
+What might Nancy scan while boasting about those plays?,What might Nancy scan those plays while boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,260
+Who could the museums dislike without aggravating Amelia?,Who could the museums dislike Amelia without aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,261
+Who would Andrea care for while discovering those guys?,Who would Andrea care for those guys while discovering?,syntax,island_effects,adjunct_island,True,False,False,True,262
+What was that teacher embarrassing without disgusting every school?,What was that teacher embarrassing every school without disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,263
+Who had Colleen appreciated while distracting Janice?,Who had Colleen appreciated Janice while distracting?,syntax,island_effects,adjunct_island,True,False,False,True,264
+Who will some guy remember while disgusting Tonya?,Who will some guy remember Tonya while disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,265
+What could Cheryl reveal without cleaning a lot of muffins?,What could Cheryl reveal a lot of muffins without cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,266
+Who had many commentaries upset without aggravating Lori?,Who had many commentaries upset Lori without aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,267
+What are some students breaking while fixing some carriage?,What are some students breaking some carriage while fixing?,syntax,island_effects,adjunct_island,True,False,False,True,268
+What could Carl sound like after revealing all restaurants?,What could Carl sound like all restaurants after revealing?,syntax,island_effects,adjunct_island,True,False,False,True,269
+What did most books astound after disturbing the organizations?,What did most books astound the organizations after disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,270
+What have these customers driven to while skated around all museums?,What have these customers driven to all museums while skated around?,syntax,island_effects,adjunct_island,True,False,False,True,271
+Who can Wayne kiss while boasting about Nina?,Who can Wayne kiss Nina while boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,272
+Who had Scott described without concealing these men?,Who had Scott described these men without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,273
+What have those waiters dropped by while admiring the restaurant?,What have those waiters dropped by the restaurant while admiring?,syntax,island_effects,adjunct_island,True,False,False,True,274
+What had Renee researched while examining some play?,What had Renee researched some play while examining?,syntax,island_effects,adjunct_island,True,False,False,True,275
+Who had Curtis listened to without noticing Michelle?,Who had Curtis listened to Michelle without noticing?,syntax,island_effects,adjunct_island,True,False,False,True,276
+What is Gina examining while complaining about every report?,What is Gina examining every report while complaining about?,syntax,island_effects,adjunct_island,True,False,False,True,277
+Who was Gerald talking about before returning to Omar?,Who was Gerald talking about Omar before returning to?,syntax,island_effects,adjunct_island,True,False,False,True,278
+Who have most guys described after annoying John?,Who have most guys described John after annoying?,syntax,island_effects,adjunct_island,True,False,False,True,279
+Who will Sonia insult after fleeing from Chad?,Who will Sonia insult Chad after fleeing from?,syntax,island_effects,adjunct_island,True,False,False,True,280
+Who might that actor hide before hiding Russell?,Who might that actor hide Russell before hiding?,syntax,island_effects,adjunct_island,True,False,False,True,281
+Who is Andrew hiring after visiting Thomas?,Who is Andrew hiring Thomas after visiting?,syntax,island_effects,adjunct_island,True,False,False,True,282
+Who had these prints bothered while disgusting Laurie?,Who had these prints bothered Laurie while disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,283
+Who was the actor revealing after embarrassing Anna?,Who was the actor revealing Anna after embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,284
+What should some snakes climb up without finding every hill?,What should some snakes climb up every hill without finding?,syntax,island_effects,adjunct_island,True,False,False,True,285
+What does Alice buy without bringing the windows?,What does Alice buy the windows without bringing?,syntax,island_effects,adjunct_island,True,False,False,True,286
+What has Jane boycotted before discovering these legislatures?,What has Jane boycotted these legislatures before discovering?,syntax,island_effects,adjunct_island,True,False,False,True,287
+Who will Robert describe without shocking Theresa?,Who will Robert describe Theresa without shocking?,syntax,island_effects,adjunct_island,True,False,False,True,288
+What was Emily walking through while arriving at this movie theater?,What was Emily walking through this movie theater while arriving at?,syntax,island_effects,adjunct_island,True,False,False,True,289
+What have the turtles broken after breaking all plates?,What have the turtles broken all plates after breaking?,syntax,island_effects,adjunct_island,True,False,False,True,290
+Who had Paul healed without alarming Tonya?,Who had Paul healed Tonya without alarming?,syntax,island_effects,adjunct_island,True,False,False,True,291
+Who has Brad referenced before discussing Deborah?,Who has Brad referenced Deborah before discussing?,syntax,island_effects,adjunct_island,True,False,False,True,292
+What can the girl sell before thinking about this book?,What can the girl sell this book before thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,293
+What has this pedestrian biked to after revealing a lot of cafes?,What has this pedestrian biked to a lot of cafes after revealing?,syntax,island_effects,adjunct_island,True,False,False,True,294
+Who have all books disagreed with while scaring the Impressionists?,Who have all books disagreed with the Impressionists while scaring?,syntax,island_effects,adjunct_island,True,False,False,True,295
+What had the dancers broken after cleaning every skateboard?,What had the dancers broken every skateboard after cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,296
+What had that waitress insulted while noticing those libraries?,What had that waitress insulted those libraries while noticing?,syntax,island_effects,adjunct_island,True,False,False,True,297
+What could Jason run around without passing malls?,What could Jason run around malls without passing?,syntax,island_effects,adjunct_island,True,False,False,True,298
+Who might Tracy talk about after discovering Becca?,Who might Tracy talk about Becca after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,299
+What should the guests annoy before distracting some governments?,What should the guests annoy some governments before distracting?,syntax,island_effects,adjunct_island,True,False,False,True,300
+What is Michelle scanning without arguing about the newspaper articles?,What is Michelle scanning the newspaper articles without arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,301
+Who is this report shocking before disagreeing with Peter?,Who is this report shocking Peter before disagreeing with?,syntax,island_effects,adjunct_island,True,False,False,True,302
+Who does Amy fire before observing Winston Churchill?,Who does Amy fire Winston Churchill before observing?,syntax,island_effects,adjunct_island,True,False,False,True,303
+What does Galileo sell without discovering a lot of mouths?,What does Galileo sell a lot of mouths without discovering?,syntax,island_effects,adjunct_island,True,False,False,True,304
+Who would Rachelle kiss while insulting William?,Who would Rachelle kiss William while insulting?,syntax,island_effects,adjunct_island,True,False,False,True,305
+What has Patrick biked to while stunning a lot of schools?,What has Patrick biked to a lot of schools while stunning?,syntax,island_effects,adjunct_island,True,False,False,True,306
+Who are most books alarming before confusing Margaret?,Who are most books alarming Margaret before confusing?,syntax,island_effects,adjunct_island,True,False,False,True,307
+Who will Nicole visit after describing Dan?,Who will Nicole visit Dan after describing?,syntax,island_effects,adjunct_island,True,False,False,True,308
+What will Scott remember before skated around some art gallery?,What will Scott remember some art gallery before skated around?,syntax,island_effects,adjunct_island,True,False,False,True,309
+Who were teachers healing before healing most people?,Who were teachers healing most people before healing?,syntax,island_effects,adjunct_island,True,False,False,True,310
+Who had teenagers listened to after discovering these girls?,Who had teenagers listened to these girls after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,311
+Who is that icicle disgusting while shocking a girl?,Who is that icicle disgusting a girl while shocking?,syntax,island_effects,adjunct_island,True,False,False,True,312
+Who is Galileo leaving before listening to Karen?,Who is Galileo leaving Karen before listening to?,syntax,island_effects,adjunct_island,True,False,False,True,313
+What was Natalie examining after scanning commentaries?,What was Natalie examining commentaries after scanning?,syntax,island_effects,adjunct_island,True,False,False,True,314
+Who was Jane worrying without annoying Noah?,Who was Jane worrying Noah without annoying?,syntax,island_effects,adjunct_island,True,False,False,True,315
+Who is Sarah shocking while stunning Galileo?,Who is Sarah shocking Galileo while stunning?,syntax,island_effects,adjunct_island,True,False,False,True,316
+What can Judy pass after touring the malls?,What can Judy pass the malls after touring?,syntax,island_effects,adjunct_island,True,False,False,True,317
+Who might this hospital conceal without describing Jessica?,Who might this hospital conceal Jessica without describing?,syntax,island_effects,adjunct_island,True,False,False,True,318
+Who might some adults approach while helping William?,Who might some adults approach William while helping?,syntax,island_effects,adjunct_island,True,False,False,True,319
+Who should Deanna aggravate before embarrassing Daniel?,Who should Deanna aggravate Daniel before embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,320
+Who is Kristen firing before alarming Adam?,Who is Kristen firing Adam before alarming?,syntax,island_effects,adjunct_island,True,False,False,True,321
+What will Rachelle explore after researching these lakes?,What will Rachelle explore these lakes after researching?,syntax,island_effects,adjunct_island,True,False,False,True,322
+What has Jill researched while thinking about current events?,What has Jill researched current events while thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,323
+Who were most people revealing after admiring Curtis?,Who were most people revealing Curtis after admiring?,syntax,island_effects,adjunct_island,True,False,False,True,324
+Who was a car scaring while distracting William?,Who was a car scaring William while distracting?,syntax,island_effects,adjunct_island,True,False,False,True,325
+Who is Colleen hugging without finding the teenager?,Who is Colleen hugging the teenager without finding?,syntax,island_effects,adjunct_island,True,False,False,True,326
+What is Ruth curing before concealing many cats?,What is Ruth curing many cats before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,327
+Who is every newspaper article disagreeing with after scaring Kimberley?,Who is every newspaper article disagreeing with Kimberley after scaring?,syntax,island_effects,adjunct_island,True,False,False,True,328
+Who would Ann leave without confusing Sabrina?,Who would Ann leave Sabrina without confusing?,syntax,island_effects,adjunct_island,True,False,False,True,329
+Who has Vanessa loved before embarrassing the actress?,Who has Vanessa loved the actress before embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,330
+What was Andrea lifting before concealing all convertibles?,What was Andrea lifting all convertibles before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,331
+What should these spotlights look like while looking like many prints?,What should these spotlights look like many prints while looking like?,syntax,island_effects,adjunct_island,True,False,False,True,332
+Who was some government bothering while referencing those guys?,Who was some government bothering those guys while referencing?,syntax,island_effects,adjunct_island,True,False,False,True,333
+Who had Martin embarrassed before disturbing Nina?,Who had Martin embarrassed Nina before disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,334
+What is William discovering without thinking about the screen?,What is William discovering the screen without thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,335
+What was Peter passing without noticing a lot of lakes?,What was Peter passing a lot of lakes without noticing?,syntax,island_effects,adjunct_island,True,False,False,True,336
+Who might a lot of dancers see before distracting Kristin?,Who might a lot of dancers see Kristin before distracting?,syntax,island_effects,adjunct_island,True,False,False,True,337
+Who were the plates scaring after distracting Donna?,Who were the plates scaring Donna after distracting?,syntax,island_effects,adjunct_island,True,False,False,True,338
+What was Debra breaking after cleaning some forks?,What was Debra breaking some forks after cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,339
+What should Raymond examine without talking about this play?,What should Raymond examine this play without talking about?,syntax,island_effects,adjunct_island,True,False,False,True,340
+Who should that college campus embarrass after aggravating Theresa?,Who should that college campus embarrass Theresa after aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,341
+Who was Samuel working with while disgusting some patients?,Who was Samuel working with some patients while disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,342
+What is Douglas buying without admiring these closets?,What is Douglas buying these closets without admiring?,syntax,island_effects,adjunct_island,True,False,False,True,343
+Who have the Impressionists listened to after criticizing Kevin?,Who have the Impressionists listened to Kevin after criticizing?,syntax,island_effects,adjunct_island,True,False,False,True,344
+What had that teacher looked like after concealing that picture?,What had that teacher looked like that picture after concealing?,syntax,island_effects,adjunct_island,True,False,False,True,345
+Who would current events disgust before boring Ruth?,Who would current events disgust Ruth before boring?,syntax,island_effects,adjunct_island,True,False,False,True,346
+What can the waitress look like after discovering all pictures?,What can the waitress look like all pictures after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,347
+What was Elaine referencing before concealing the report?,What was Elaine referencing the report before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,348
+Who had Natalie investigated while healing Martin?,Who had Natalie investigated Martin while healing?,syntax,island_effects,adjunct_island,True,False,False,True,349
+What was Debra breaking before noticing all glasses?,What was Debra breaking all glasses before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,350
+Who would Catherine hate after visiting Julia?,Who would Catherine hate Julia after visiting?,syntax,island_effects,adjunct_island,True,False,False,True,351
+What did doctors arrive at after leaving a lot of lakes?,What did doctors arrive at a lot of lakes after leaving?,syntax,island_effects,adjunct_island,True,False,False,True,352
+Who does Karen notice after boasting about Caroline?,Who does Karen notice Caroline after boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,353
+Who had Lisa discussed after irritating Sharon?,Who had Lisa discussed Sharon after irritating?,syntax,island_effects,adjunct_island,True,False,False,True,354
+Who is Roger escaping from while revealing Monet?,Who is Roger escaping from Monet while revealing?,syntax,island_effects,adjunct_island,True,False,False,True,355
+Who has Mary praised while talking about Lissa?,Who has Mary praised Lissa while talking about?,syntax,island_effects,adjunct_island,True,False,False,True,356
+What has Linda arrived at before noticing some hospital?,What has Linda arrived at some hospital before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,357
+Who had John criticized after questioning Melissa?,Who had John criticized Melissa after questioning?,syntax,island_effects,adjunct_island,True,False,False,True,358
+What is Roger skated around while arriving at that river?,What is Roger skated around that river while arriving at?,syntax,island_effects,adjunct_island,True,False,False,True,359
+What was Kimberley cleaning without finding that cart?,What was Kimberley cleaning that cart without finding?,syntax,island_effects,adjunct_island,True,False,False,True,360
+What has Suzanne scanned while describing commentaries?,What has Suzanne scanned commentaries while describing?,syntax,island_effects,adjunct_island,True,False,False,True,361
+What had Caroline exited without talking about that lake?,What had Caroline exited that lake without talking about?,syntax,island_effects,adjunct_island,True,False,False,True,362
+What was Janet messing up before messing up those public parks?,What was Janet messing up those public parks before messing up?,syntax,island_effects,adjunct_island,True,False,False,True,363
+Who had Brett described while scaring Kirsten?,Who had Brett described Kirsten while scaring?,syntax,island_effects,adjunct_island,True,False,False,True,364
+What had Roger ascended while noticing steps?,What had Roger ascended steps while noticing?,syntax,island_effects,adjunct_island,True,False,False,True,365
+Who will some cashiers hide without attacking the Impressionists?,Who will some cashiers hide the Impressionists without attacking?,syntax,island_effects,adjunct_island,True,False,False,True,366
+Who has Rose visited without listening to most dancers?,Who has Rose visited most dancers without listening to?,syntax,island_effects,adjunct_island,True,False,False,True,367
+Who is Sally observing before disgusting this man?,Who is Sally observing this man before disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,368
+Who has Tammy approached after working with Becky?,Who has Tammy approached Becky after working with?,syntax,island_effects,adjunct_island,True,False,False,True,369
+Who have the Impressionists disagreed with before complaining about Sheila?,Who have the Impressionists disagreed with Sheila before complaining about?,syntax,island_effects,adjunct_island,True,False,False,True,370
+Who might Linda escape from without bothering Kathleen?,Who might Linda escape from Kathleen without bothering?,syntax,island_effects,adjunct_island,True,False,False,True,371
+What is Jason noticing after thinking about all rugs?,What is Jason noticing all rugs after thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,372
+Who could Valerie appreciate before aggravating Tamara?,Who could Valerie appreciate Tamara before aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,373
+What would Julia wear while admiring a dress?,What would Julia wear a dress while admiring?,syntax,island_effects,adjunct_island,True,False,False,True,374
+Who might pedestrians disagree with without leaving Natalie?,Who might pedestrians disagree with Natalie without leaving?,syntax,island_effects,adjunct_island,True,False,False,True,375
+Who was Stacey returning to after embarrassing Emily?,Who was Stacey returning to Emily after embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,376
+Who has Natalie fired before firing Judy?,Who has Natalie fired Judy before firing?,syntax,island_effects,adjunct_island,True,False,False,True,377
+What have the Borgias examined while discovering this commentary?,What have the Borgias examined this commentary while discovering?,syntax,island_effects,adjunct_island,True,False,False,True,378
+Who can a lot of legislatures work with before embarrassing Omar?,Who can a lot of legislatures work with Omar before embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,379
+Who had Kayla referenced while fleeing from Samantha?,Who had Kayla referenced Samantha while fleeing from?,syntax,island_effects,adjunct_island,True,False,False,True,380
+What have these adults passed before boycotting all schools?,What have these adults passed all schools before boycotting?,syntax,island_effects,adjunct_island,True,False,False,True,381
+What could Kendra descend after hiding that hill?,What could Kendra descend that hill after hiding?,syntax,island_effects,adjunct_island,True,False,False,True,382
+Who has that closet aggravated after confusing Steve?,Who has that closet aggravated Steve after confusing?,syntax,island_effects,adjunct_island,True,False,False,True,383
+Who has George boasted about after distracting Roger?,Who has George boasted about Roger after distracting?,syntax,island_effects,adjunct_island,True,False,False,True,384
+What was Meredith skated around after concealing public parks?,What was Meredith skated around public parks after concealing?,syntax,island_effects,adjunct_island,True,False,False,True,385
+Who will all dresses embarrass without distracting this guest?,Who will all dresses embarrass this guest without distracting?,syntax,island_effects,adjunct_island,True,False,False,True,386
+What has Julie lifted before going to this art gallery?,What has Julie lifted this art gallery before going to?,syntax,island_effects,adjunct_island,True,False,False,True,387
+What were the children arriving at while finding every cafe?,What were the children arriving at every cafe while finding?,syntax,island_effects,adjunct_island,True,False,False,True,388
+Who can every boy hide after criticizing Stacy?,Who can every boy hide Stacy after criticizing?,syntax,island_effects,adjunct_island,True,False,False,True,389
+What did Holly return to before walking through Spain?,What did Holly return to Spain before walking through?,syntax,island_effects,adjunct_island,True,False,False,True,390
+Who could Kenneth flee from after visiting Carolyn?,Who could Kenneth flee from Carolyn after visiting?,syntax,island_effects,adjunct_island,True,False,False,True,391
+Who are most waitresses hiding before hiring Barbara?,Who are most waitresses hiding Barbara before hiring?,syntax,island_effects,adjunct_island,True,False,False,True,392
+What does Holly look like after cleaning some pictures?,What does Holly look like some pictures after cleaning?,syntax,island_effects,adjunct_island,True,False,False,True,393
+What have all waiters ascended after bringing some ladders?,What have all waiters ascended some ladders after bringing?,syntax,island_effects,adjunct_island,True,False,False,True,394
+What had Jill discovered before noticing the cups?,What had Jill discovered the cups before noticing?,syntax,island_effects,adjunct_island,True,False,False,True,395
+Who might Carlos work with while discovering Mary?,Who might Carlos work with Mary while discovering?,syntax,island_effects,adjunct_island,True,False,False,True,396
+Who was Beverly disgusting after appreciating some students?,Who was Beverly disgusting some students after appreciating?,syntax,island_effects,adjunct_island,True,False,False,True,397
+Who did some patients praise without listening to Benjamin?,Who did some patients praise Benjamin without listening to?,syntax,island_effects,adjunct_island,True,False,False,True,398
+Who is Randolf confusing while approaching Galileo?,Who is Randolf confusing Galileo while approaching?,syntax,island_effects,adjunct_island,True,False,False,True,399
+What should Dawn impress before criticizing a lot of banks?,What should Dawn impress a lot of banks before criticizing?,syntax,island_effects,adjunct_island,True,False,False,True,400
+Who had the screen scared after shocking Ann?,Who had the screen scared Ann after shocking?,syntax,island_effects,adjunct_island,True,False,False,True,401
+Who has Connie questioned while impressing Richard?,Who has Connie questioned Richard while impressing?,syntax,island_effects,adjunct_island,True,False,False,True,402
+Who are some convertibles worrying before annoying Deborah?,Who are some convertibles worrying Deborah before annoying?,syntax,island_effects,adjunct_island,True,False,False,True,403
+Who can all adults disagree with without concealing many senators?,Who can all adults disagree with many senators without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,404
+What would Tamara discover before irritating this committee?,What would Tamara discover this committee before irritating?,syntax,island_effects,adjunct_island,True,False,False,True,405
+Who does Amanda find while thinking about Lucille?,Who does Amanda find Lucille while thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,406
+What did the Clintons lift after researching every art gallery?,What did the Clintons lift every art gallery after researching?,syntax,island_effects,adjunct_island,True,False,False,True,407
+Who would Brett watch after attacking Gina?,Who would Brett watch Gina after attacking?,syntax,island_effects,adjunct_island,True,False,False,True,408
+Who has Guy listened to after scaring this person?,Who has Guy listened to this person after scaring?,syntax,island_effects,adjunct_island,True,False,False,True,409
+Who would Ronald talk to after escaping from a lot of actors?,Who would Ronald talk to a lot of actors after escaping from?,syntax,island_effects,adjunct_island,True,False,False,True,410
+What was Lawrence healing after finding many snakes?,What was Lawrence healing many snakes after finding?,syntax,island_effects,adjunct_island,True,False,False,True,411
+Who had Mitchell respected while impressing Travis?,Who had Mitchell respected Travis while impressing?,syntax,island_effects,adjunct_island,True,False,False,True,412
+Who would Dawn bore without thinking about Allison?,Who would Dawn bore Allison without thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,413
+Who were most drivers watching while hurting Cindy?,Who were most drivers watching Cindy while hurting?,syntax,island_effects,adjunct_island,True,False,False,True,414
+What has Brian bought before messing up some plate?,What has Brian bought some plate before messing up?,syntax,island_effects,adjunct_island,True,False,False,True,415
+What might Karla take without wearing every sweater?,What might Karla take every sweater without wearing?,syntax,island_effects,adjunct_island,True,False,False,True,416
+What could Marcus research while walking through that public park?,What could Marcus research that public park while walking through?,syntax,island_effects,adjunct_island,True,False,False,True,417
+What might Timothy lift before buying many movie theaters?,What might Timothy lift many movie theaters before buying?,syntax,island_effects,adjunct_island,True,False,False,True,418
+What has Lisa referenced before examining that essay?,What has Lisa referenced that essay before examining?,syntax,island_effects,adjunct_island,True,False,False,True,419
+Who are these lakes alarming after annoying Beth?,Who are these lakes alarming Beth after annoying?,syntax,island_effects,adjunct_island,True,False,False,True,420
+What was Laura breaking while breaking every vase?,What was Laura breaking every vase while breaking?,syntax,island_effects,adjunct_island,True,False,False,True,421
+What has Clyde toured without researching that closet?,What has Clyde toured that closet without researching?,syntax,island_effects,adjunct_island,True,False,False,True,422
+What will Candice resemble without concealing the print?,What will Candice resemble the print without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,423
+What was Tracy scaring before boycotting the committees?,What was Tracy scaring the committees before boycotting?,syntax,island_effects,adjunct_island,True,False,False,True,424
+Who did Galileo cure after healing Karla?,Who did Galileo cure Karla after healing?,syntax,island_effects,adjunct_island,True,False,False,True,425
+Who is Lawrence questioning while disgusting Cheryl?,Who is Lawrence questioning Cheryl while disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,426
+Who had Derek alarmed while approaching Carl?,Who had Derek alarmed Carl while approaching?,syntax,island_effects,adjunct_island,True,False,False,True,427
+What will some adults discover while astounding every committee?,What will some adults discover every committee while astounding?,syntax,island_effects,adjunct_island,True,False,False,True,428
+Who were those lamps shocking after stunning Russell?,Who were those lamps shocking Russell after stunning?,syntax,island_effects,adjunct_island,True,False,False,True,429
+Who has some shoe scared after upsetting Aaron?,Who has some shoe scared Aaron after upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,430
+What has Ann sold after running around every high school?,What has Ann sold every high school after running around?,syntax,island_effects,adjunct_island,True,False,False,True,431
+Who could Emily talk to while shocking Amy?,Who could Emily talk to Amy while shocking?,syntax,island_effects,adjunct_island,True,False,False,True,432
+What was Monica examining before insulting all essays?,What was Monica examining all essays before insulting?,syntax,island_effects,adjunct_island,True,False,False,True,433
+Who can many people confuse after describing Regina?,Who can many people confuse Regina after describing?,syntax,island_effects,adjunct_island,True,False,False,True,434
+Who is Cindy upsetting before concealing Melanie?,Who is Cindy upsetting Melanie before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,435
+Who can Galileo return to after investigating Phillip?,Who can Galileo return to Phillip after investigating?,syntax,island_effects,adjunct_island,True,False,False,True,436
+What is a doctor cleaning without revealing some screens?,What is a doctor cleaning some screens without revealing?,syntax,island_effects,adjunct_island,True,False,False,True,437
+Who had this teacher attacked before bothering Marie?,Who had this teacher attacked Marie before bothering?,syntax,island_effects,adjunct_island,True,False,False,True,438
+What is George buying without lifting some pasta?,What is George buying some pasta without lifting?,syntax,island_effects,adjunct_island,True,False,False,True,439
+Who have the drivers hugged while revealing Bradley?,Who have the drivers hugged Bradley while revealing?,syntax,island_effects,adjunct_island,True,False,False,True,440
+Who is Teresa discovering while talking about Anne?,Who is Teresa discovering Anne while talking about?,syntax,island_effects,adjunct_island,True,False,False,True,441
+Who are many cats bothering before hurting George?,Who are many cats bothering George before hurting?,syntax,island_effects,adjunct_island,True,False,False,True,442
+Who had Douglas respected before aggravating Kayla?,Who had Douglas respected Kayla before aggravating?,syntax,island_effects,adjunct_island,True,False,False,True,443
+Who has Sarah stunned before discovering Thomas?,Who has Sarah stunned Thomas before discovering?,syntax,island_effects,adjunct_island,True,False,False,True,444
+What had Gerald bought after discovering those eggplants?,What had Gerald bought those eggplants after discovering?,syntax,island_effects,adjunct_island,True,False,False,True,445
+Who would that cashier escape from while working with Carlos?,Who would that cashier escape from Carlos while working with?,syntax,island_effects,adjunct_island,True,False,False,True,446
+What does Andrea exit after arriving at many schools?,What does Andrea exit many schools after arriving at?,syntax,island_effects,adjunct_island,True,False,False,True,447
+What has Karla sounded like after exiting these public parks?,What has Karla sounded like these public parks after exiting?,syntax,island_effects,adjunct_island,True,False,False,True,448
+Who did Claire discuss without discussing Kenneth?,Who did Claire discuss Kenneth without discussing?,syntax,island_effects,adjunct_island,True,False,False,True,449
+Who has Christopher appreciated without concealing all cashiers?,Who has Christopher appreciated all cashiers without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,450
+What did Timothy have after taking apples?,What did Timothy have apples after taking?,syntax,island_effects,adjunct_island,True,False,False,True,451
+Who does the car impress without confusing Sabrina?,Who does the car impress Sabrina without confusing?,syntax,island_effects,adjunct_island,True,False,False,True,452
+Who could Becky disturb after annoying Grace?,Who could Becky disturb Grace after annoying?,syntax,island_effects,adjunct_island,True,False,False,True,453
+Who is Melanie astounding after embarrassing Judy?,Who is Melanie astounding Judy after embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,454
+What is Gregory breaking before admiring the dish?,What is Gregory breaking the dish before admiring?,syntax,island_effects,adjunct_island,True,False,False,True,455
+What has Kayla biked to after fleeing from the museums?,What has Kayla biked to the museums after fleeing from?,syntax,island_effects,adjunct_island,True,False,False,True,456
+Who had Amelia noticed before worrying Andrea?,Who had Amelia noticed Andrea before worrying?,syntax,island_effects,adjunct_island,True,False,False,True,457
+What would this muffin look like while looking like every print?,What would this muffin look like every print while looking like?,syntax,island_effects,adjunct_island,True,False,False,True,458
+Who was Jessica astounding after referencing Margaret?,Who was Jessica astounding Margaret after referencing?,syntax,island_effects,adjunct_island,True,False,False,True,459
+Who should a screen impress without disgusting Karla?,Who should a screen impress Karla without disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,460
+Who can Eva care for while hiding Lawrence?,Who can Eva care for Lawrence while hiding?,syntax,island_effects,adjunct_island,True,False,False,True,461
+Who has Sally loved after admiring those girls?,Who has Sally loved those girls after admiring?,syntax,island_effects,adjunct_island,True,False,False,True,462
+Who could Mitchell distract before leaving a pedestrian?,Who could Mitchell distract a pedestrian before leaving?,syntax,island_effects,adjunct_island,True,False,False,True,463
+Who can Tara alarm after talking about Samantha?,Who can Tara alarm Samantha after talking about?,syntax,island_effects,adjunct_island,True,False,False,True,464
+Who could Kristen talk to before concealing Nina?,Who could Kristen talk to Nina before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,465
+Who had Scott hugged before approaching Tracy?,Who had Scott hugged Tracy before approaching?,syntax,island_effects,adjunct_island,True,False,False,True,466
+Who had every actor cared for before healing Linda?,Who had every actor cared for Linda before healing?,syntax,island_effects,adjunct_island,True,False,False,True,467
+What has Benjamin messed up while exploring many cafes?,What has Benjamin messed up many cafes while exploring?,syntax,island_effects,adjunct_island,True,False,False,True,468
+Who is Renee criticizing without approaching Tracy?,Who is Renee criticizing Tracy without approaching?,syntax,island_effects,adjunct_island,True,False,False,True,469
+Who has every organization forgotten without stunning Brenda?,Who has every organization forgotten Brenda without stunning?,syntax,island_effects,adjunct_island,True,False,False,True,470
+Who could music annoy while shocking Mitchell?,Who could music annoy Mitchell while shocking?,syntax,island_effects,adjunct_island,True,False,False,True,471
+What are the Clintons researching without concealing those sketches?,What are the Clintons researching those sketches without concealing?,syntax,island_effects,adjunct_island,True,False,False,True,472
+Who had the spinach worried after shocking Phillip?,Who had the spinach worried Phillip after shocking?,syntax,island_effects,adjunct_island,True,False,False,True,473
+What can Mitchell discuss after describing most movies?,What can Mitchell discuss most movies after describing?,syntax,island_effects,adjunct_island,True,False,False,True,474
+Who would all schools criticize while embarrassing Andrea?,Who would all schools criticize Andrea while embarrassing?,syntax,island_effects,adjunct_island,True,False,False,True,475
+What was John cleaning before disturbing all hospitals?,What was John cleaning all hospitals before disturbing?,syntax,island_effects,adjunct_island,True,False,False,True,476
+Who is Cindy approaching without insulting Nina?,Who is Cindy approaching Nina without insulting?,syntax,island_effects,adjunct_island,True,False,False,True,477
+Who did Martha discover without thinking about Kenneth?,Who did Martha discover Kenneth without thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,478
+Who can all committees talk about before upsetting a guest?,Who can all committees talk about a guest before upsetting?,syntax,island_effects,adjunct_island,True,False,False,True,479
+Who had Kathleen described without working with some actress?,Who had Kathleen described some actress without working with?,syntax,island_effects,adjunct_island,True,False,False,True,480
+Who was Beth firing after insulting Marie?,Who was Beth firing Marie after insulting?,syntax,island_effects,adjunct_island,True,False,False,True,481
+Who did this patient flee from without discovering the Lutherans?,Who did this patient flee from the Lutherans without discovering?,syntax,island_effects,adjunct_island,True,False,False,True,482
+What did Douglas bring without irritating some banks?,What did Douglas bring some banks without irritating?,syntax,island_effects,adjunct_island,True,False,False,True,483
+Who has Debra cared for while boasting about Lisa?,Who has Debra cared for Lisa while boasting about?,syntax,island_effects,adjunct_island,True,False,False,True,484
+Who does Diane talk to after hurting Galileo?,Who does Diane talk to Galileo after hurting?,syntax,island_effects,adjunct_island,True,False,False,True,485
+What is Karen cleaning before thinking about this print?,What is Karen cleaning this print before thinking about?,syntax,island_effects,adjunct_island,True,False,False,True,486
+What was Scott driving to without running around some malls?,What was Scott driving to some malls without running around?,syntax,island_effects,adjunct_island,True,False,False,True,487
+What could Craig take without escaping from all high schools?,What could Craig take all high schools without escaping from?,syntax,island_effects,adjunct_island,True,False,False,True,488
+What has Judy broken while concealing a window?,What has Judy broken a window while concealing?,syntax,island_effects,adjunct_island,True,False,False,True,489
+Who will a senator escape from without criticizing this student?,Who will a senator escape from this student without criticizing?,syntax,island_effects,adjunct_island,True,False,False,True,490
+What has the guy explored before dropping by the closet?,What has the guy explored the closet before dropping by?,syntax,island_effects,adjunct_island,True,False,False,True,491
+What has the waitress broken before breaking a computer?,What has the waitress broken a computer before breaking?,syntax,island_effects,adjunct_island,True,False,False,True,492
+Who does a student embarrass before hiring Monica?,Who does a student embarrass Monica before hiring?,syntax,island_effects,adjunct_island,True,False,False,True,493
+Who did Kevin attack before concealing Alicia?,Who did Kevin attack Alicia before concealing?,syntax,island_effects,adjunct_island,True,False,False,True,494
+Who can the man respect before helping Janice?,Who can the man respect Janice before helping?,syntax,island_effects,adjunct_island,True,False,False,True,495
+What was Alicia going to after disgusting all hospitals?,What was Alicia going to all hospitals after disgusting?,syntax,island_effects,adjunct_island,True,False,False,True,496
+Who has Becky visited while confusing most drivers?,Who has Becky visited most drivers while confusing?,syntax,island_effects,adjunct_island,True,False,False,True,497
+Who should most guests hate after hiding Dan?,Who should most guests hate Dan after hiding?,syntax,island_effects,adjunct_island,True,False,False,True,498
+Who is Kayla questioning while arguing about this teenager?,Who is Kayla questioning this teenager while arguing about?,syntax,island_effects,adjunct_island,True,False,False,True,499
